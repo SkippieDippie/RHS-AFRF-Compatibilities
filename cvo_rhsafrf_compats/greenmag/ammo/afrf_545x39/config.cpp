@@ -35,18 +35,33 @@ class CfgPatches {
 };
 
 class CfgWeapons {
-	class greenmag_core_1Rnd;
-	class greenmag_core_10Rnd;
-	class greenmag_core_20Rnd;
-	class greenmag_core_30Rnd;
-	class greenmag_core_40Rnd;
-	class greenmag_core_50Rnd;
-	class greenmag_core_60Rnd;
+	class greenmag_core_box;
+	class greenmag_core_1Rnd : greenmag_core_box {
+		class ItemInfo;
+	};
+	class greenmag_core_10Rnd : greenmag_core_box {
+		class ItemInfo;
+	};
+	class greenmag_core_20Rnd : greenmag_core_box {
+		class ItemInfo;
+	};
+	class greenmag_core_30Rnd : greenmag_core_box {
+		class ItemInfo;
+	};
+	class greenmag_core_40Rnd : greenmag_core_box {
+		class ItemInfo;
+	};
+	class greenmag_core_50Rnd : greenmag_core_box {
+		class ItemInfo;
+	};
+	class greenmag_core_60Rnd : greenmag_core_box {
+		class ItemInfo;
+	};
 
-	AMMO_CLASS(545x39_7N6,5.45x39 7N6)
-	AMMO_CLASS(545x39_7N6M,5.45x39 7N6M)
-	AMMO_CLASS(545x39_7N10,5.45x39 7N10)
-	AMMO_CLASS(545x39_7N22,5.45x39 7N22)
-	AMMO_CLASS(545x39_7T3M,5.45x39 7T3M)
-	AMMO_CLASS(545x39_7U1,5.45x39 7U1)
+	AMMO_CLASS(545x39_7N6,5.45x39 7N6,0.22)
+	AMMO_CLASS(545x39_7N6M,5.45x39 7N6M,0.22)
+	AMMO_CLASS(545x39_7N10,5.45x39 7N10,0.22)
+	AMMO_CLASS(545x39_7N22,5.45x39 7N22,0.22)
+	AMMO_CLASS(545x39_7T3M,5.45x39 7T3M,0.22)
+	AMMO_CLASS(545x39_7U1,5.45x39 7U1,0.22)
 };
