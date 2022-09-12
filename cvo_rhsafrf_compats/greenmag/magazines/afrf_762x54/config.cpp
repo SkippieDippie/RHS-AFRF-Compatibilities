@@ -1,5 +1,5 @@
 class CfgPatches {
-	class CVO_RHSAFRF_Compats_GreenMag_545x39_Magazines {
+	class CVO_RHSAFRF_Compats_GreenMag_762x54_Magazines {
 		addonRootClass = "CVO_RHSAFRF_Compats_GreenMag";
 
 		requiredAddons[] = {"rhs_c_weapons"};
