@@ -1,7 +1,7 @@
 #include "\z\cvo_rhsafrf_compats\greenmag\macros.hpp"
 
 class CfgPatches {
-	class CVO_RHSAFRF_Compats_GreenMag_762x39_Ammo {
+	class CVO_RHSAFRF_Compats_GreenMag_545x39_Ammo {
 		addonRootClass = "CVO_RHSAFRF_Compats_GreenMag";
 
 		requiredAddons[] = {"greenmag_main"};
