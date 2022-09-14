@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Everything Compats - RHS AFRF">
+  <Package name="GreenMag">
+    <Container name="Ammo 5.45 7N10">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N10_1Rnd_name">
+        <Original>5.45x39mm - 1Rnd [7N10]</Original>
+        <English>5.45x39mm - 1Rnd [7N10]</English>
+        <Russian>5.45x39мм - 1 птр. [7Н10]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N10_10Rnd_name">
+        <Original>5.45x39mm - 10Rnd [7N10]</Original>
+        <English>5.45x39mm - 10Rnd [7N10]</English>
+        <Russian>5.45x39мм - 10 птр. [7Н10]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N10_20Rnd_name">
+        <Original>5.45x39mm - 20Rnd [7N10]</Original>
+        <English>5.45x39mm - 20Rnd [7N10]</English>
+        <Russian>5.45x39мм - 20 птр. [7Н10]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N10_30Rnd_name">
+        <Original>5.45x39mm - 30Rnd [7N10]</Original>
+        <English>5.45x39mm - 30Rnd [7N10]</English>
+        <Russian>5.45x39мм - 30 птр. [7Н10]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N10_40Rnd_name">
+        <Original>5.45x39mm - 40Rnd [7N10]</Original>
+        <English>5.45x39mm - 40Rnd [7N10]</English>
+        <Russian>5.45x39мм - 40 птр. [7Н10]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N10_50Rnd_name">
+        <Original>5.45x39mm - 50Rnd [7N10]</Original>
+        <English>5.45x39mm - 50Rnd [7N10]</English>
+        <Russian>5.45x39мм - 50 птр. [7Н10]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N10_60Rnd_name">
+        <Original>5.45x39mm - 60Rnd [7N10]</Original>
+        <English>5.45x39mm - 60Rnd [7N10]</English>
+        <Russian>5.45x39мм - 60 птр. [7Н10]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 5.45 7N22">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N22_1Rnd_name">
+        <Original>5.45x39mm - 1Rnd [7N22]</Original>
+        <English>5.45x39mm - 1Rnd [7N22]</English>
+        <Russian>5.45x39мм - 1 птр. [7Н22]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N22_10Rnd_name">
+        <Original>5.45x39mm - 10Rnd [7N22]</Original>
+        <English>5.45x39mm - 10Rnd [7N22]</English>
+        <Russian>5.45x39мм - 10 птр. [7Н22]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N22_20Rnd_name">
+        <Original>5.45x39mm - 20Rnd [7N22]</Original>
+        <English>5.45x39mm - 20Rnd [7N22]</English>
+        <Russian>5.45x39мм - 20 птр. [7Н22]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N22_30Rnd_name">
+        <Original>5.45x39mm - 30Rnd [7N22]</Original>
+        <English>5.45x39mm - 30Rnd [7N22]</English>
+        <Russian>5.45x39мм - 30 птр. [7Н22]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N22_40Rnd_name">
+        <Original>5.45x39mm - 40Rnd [7N22]</Original>
+        <English>5.45x39mm - 40Rnd [7N22]</English>
+        <Russian>5.45x39мм - 40 птр. [7Н22]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N22_50Rnd_name">
+        <Original>5.45x39mm - 50Rnd [7N22]</Original>
+        <English>5.45x39mm - 50Rnd [7N22]</English>
+        <Russian>5.45x39мм - 50 птр. [7Н22]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N22_60Rnd_name">
+        <Original>5.45x39mm - 60Rnd [7N22]</Original>
+        <English>5.45x39mm - 60Rnd [7N22]</English>
+        <Russian>5.45x39мм - 60 птр. [7Н22]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 5.45 7N6">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6_1Rnd_name">
+        <Original>5.45x39mm - 1Rnd [7N6]</Original>
+        <English>5.45x39mm - 1Rnd [7N6]</English>
+        <Russian>5.45x39мм - 1 птр. [7Н6]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6_10Rnd_name">
+        <Original>5.45x39mm - 10Rnd [7N6]</Original>
+        <English>5.45x39mm - 10Rnd [7N6]</English>
+        <Russian>5.45x39мм - 10 птр. [7Н6]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6_20Rnd_name">
+        <Original>5.45x39mm - 20Rnd [7N6]</Original>
+        <English>5.45x39mm - 20Rnd [7N6]</English>
+        <Russian>5.45x39мм - 20 птр. [7Н6]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6_30Rnd_name">
+        <Original>5.45x39mm - 30Rnd [7N6]</Original>
+        <English>5.45x39mm - 30Rnd [7N6]</English>
+        <Russian>5.45x39мм - 30 птр. [7Н6]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6_40Rnd_name">
+        <Original>5.45x39mm - 40Rnd [7N6]</Original>
+        <English>5.45x39mm - 40Rnd [7N6]</English>
+        <Russian>5.45x39мм - 40 птр. [7Н6]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6_50Rnd_name">
+        <Original>5.45x39mm - 50Rnd [7N6]</Original>
+        <English>5.45x39mm - 50Rnd [7N6]</English>
+        <Russian>5.45x39мм - 50 птр. [7Н6]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6_60Rnd_name">
+        <Original>5.45x39mm - 60Rnd [7N6]</Original>
+        <English>5.45x39mm - 60Rnd [7N6]</English>
+        <Russian>5.45x39мм - 60 птр. [7Н6]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 5.45 7N6M">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6M_1Rnd_name">
+        <Original>5.45x39mm - 1Rnd [7N6M]</Original>
+        <English>5.45x39mm - 1Rnd [7N6M]</English>
+        <Russian>5.45x39мм - 1 птр. [7Н6М]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6M_10Rnd_name">
+        <Original>5.45x39mm - 10Rnd [7N6M]</Original>
+        <English>5.45x39mm - 10Rnd [7N6M]</English>
+        <Russian>5.45x39мм - 10 птр. [7Н6М]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6M_20Rnd_name">
+        <Original>5.45x39mm - 20Rnd [7N6M]</Original>
+        <English>5.45x39mm - 20Rnd [7N6M]</English>
+        <Russian>5.45x39мм - 20 птр. [7Н6М]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6M_30Rnd_name">
+        <Original>5.45x39mm - 30Rnd [7N6M]</Original>
+        <English>5.45x39mm - 30Rnd [7N6M]</English>
+        <Russian>5.45x39мм - 30 птр. [7Н6М]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6M_40Rnd_name">
+        <Original>5.45x39mm - 40Rnd [7N6M]</Original>
+        <English>5.45x39mm - 40Rnd [7N6M]</English>
+        <Russian>5.45x39мм - 40 птр. [7Н6М]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6M_50Rnd_name">
+        <Original>5.45x39mm - 50Rnd [7N6M]</Original>
+        <English>5.45x39mm - 50Rnd [7N6M]</English>
+        <Russian>5.45x39мм - 50 птр. [7Н6М]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7N6M_60Rnd_name">
+        <Original>5.45x39mm - 60Rnd [7N6M]</Original>
+        <English>5.45x39mm - 60Rnd [7N6M]</English>
+        <Russian>5.45x39мм - 60 птр. [7Н6М]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 5.45 7T3M">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7T3M_1Rnd_name">
+        <Original>5.45x39mm - 1Rnd [7T3M]</Original>
+        <English>5.45x39mm - 1Rnd [7T3M]</English>
+        <Russian>5.45x39мм - 1 птр. [7Т3М]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7T3M_10Rnd_name">
+        <Original>5.45x39mm - 10Rnd [7T3M]</Original>
+        <English>5.45x39mm - 10Rnd [7T3M]</English>
+        <Russian>5.45x39мм - 10 птр. [7Т3М]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7T3M_20Rnd_name">
+        <Original>5.45x39mm - 20Rnd [7T3M]</Original>
+        <English>5.45x39mm - 20Rnd [7T3M]</English>
+        <Russian>5.45x39мм - 20 птр. [7Т3М]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7T3M_30Rnd_name">
+        <Original>5.45x39mm - 30Rnd [7T3M]</Original>
+        <English>5.45x39mm - 30Rnd [7T3M]</English>
+        <Russian>5.45x39мм - 30 птр. [7Т3М]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7T3M_40Rnd_name">
+        <Original>5.45x39mm - 40Rnd [7T3M]</Original>
+        <English>5.45x39mm - 40Rnd [7T3M]</English>
+        <Russian>5.45x39мм - 40 птр. [7Т3М]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7T3M_50Rnd_name">
+        <Original>5.45x39mm - 50Rnd [7T3M]</Original>
+        <English>5.45x39mm - 50Rnd [7T3M]</English>
+        <Russian>5.45x39мм - 50 птр. [7Т3М]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7T3M_60Rnd_name">
+        <Original>5.45x39mm - 60Rnd [7T3M]</Original>
+        <English>5.45x39mm - 60Rnd [7T3M]</English>
+        <Russian>5.45x39мм - 60 птр. [7Т3М]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 5.45 7U1">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7U1_1Rnd_name">
+        <Original>5.45x39mm - 1Rnd [7U1]</Original>
+        <English>5.45x39mm - 1Rnd [7U1]</English>
+        <Russian>5.45x39мм - 1 птр. [7У1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7U1_10Rnd_name">
+        <Original>5.45x39mm - 10Rnd [7U1]</Original>
+        <English>5.45x39mm - 10Rnd [7U1]</English>
+        <Russian>5.45x39мм - 10 птр. [7У1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7U1_20Rnd_name">
+        <Original>5.45x39mm - 20Rnd [7U1]</Original>
+        <English>5.45x39mm - 20Rnd [7U1]</English>
+        <Russian>5.45x39мм - 20 птр. [7У1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7U1_30Rnd_name">
+        <Original>5.45x39mm - 30Rnd [7U1]</Original>
+        <English>5.45x39mm - 30Rnd [7U1]</English>
+        <Russian>5.45x39мм - 30 птр. [7У1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7U1_40Rnd_name">
+        <Original>5.45x39mm - 40Rnd [7U1]</Original>
+        <English>5.45x39mm - 40Rnd [7U1]</English>
+        <Russian>5.45x39мм - 40 птр. [7У1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7U1_50Rnd_name">
+        <Original>5.45x39mm - 50Rnd [7U1]</Original>
+        <English>5.45x39mm - 50Rnd [7U1]</English>
+        <Russian>5.45x39мм - 50 птр. [7У1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_545x39_7U1_60Rnd_name">
+        <Original>5.45x39mm - 60Rnd [7U1]</Original>
+        <English>5.45x39mm - 60Rnd [7U1]</English>
+        <Russian>5.45x39мм - 60 птр. [7У1]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 7.62x39 57N231">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231_1Rnd_name">
+        <Original>7.62x39mm - 1Rnd [57-N-231]</Original>
+        <English>7.62x39mm - 1Rnd [57-N-231]</English>
+        <Russian>7.62x39мм - 1 птр. [57-Н-231]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231_10Rnd_name">
+        <Original>7.62x39mm - 10Rnd [57-N-231]</Original>
+        <English>7.62x39mm - 10Rnd [57-N-231]</English>
+        <Russian>7.62x39мм - 10 птр. [57-Н-231]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231_20Rnd_name">
+        <Original>7.62x39mm - 20Rnd [57-N-231]</Original>
+        <English>7.62x39mm - 20Rnd [57-N-231]</English>
+        <Russian>7.62x39мм - 20 птр. [57-Н-231]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231_30Rnd_name">
+        <Original>7.62x39mm - 30Rnd [57-N-231]</Original>
+        <English>7.62x39mm - 30Rnd [57-N-231]</English>
+        <Russian>7.62x39мм - 30 птр. [57-Н-231]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231_40Rnd_name">
+        <Original>7.62x39mm - 40Rnd [57-N-231]</Original>
+        <English>7.62x39mm - 40Rnd [57-N-231]</English>
+        <Russian>7.62x39мм - 40 птр. [57-Н-231]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231_50Rnd_name">
+        <Original>7.62x39mm - 50Rnd [57-N-231]</Original>
+        <English>7.62x39mm - 50Rnd [57-N-231]</English>
+        <Russian>7.62x39мм - 50 птр. [57-Н-231]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231_60Rnd_name">
+        <Original>7.62x39mm - 60Rnd [57-N-231]</Original>
+        <English>7.62x39mm - 60Rnd [57-N-231]</English>
+        <Russian>7.62x39мм - 60 птр. [57-Н-231]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 7.62x39 57N231P">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231P_1Rnd_name">
+        <Original>7.62x39mm - 1Rnd [57-N-231P]</Original>
+        <English>7.62x39mm - 1Rnd [57-N-231P]</English>
+        <Russian>7.62x39мм - 1 птр. [57-Н-231П]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231P_10Rnd_name">
+        <Original>7.62x39mm - 10Rnd [57-N-231P]</Original>
+        <English>7.62x39mm - 10Rnd [57-N-231P]</English>
+        <Russian>7.62x39мм - 10 птр. [57-Н-231П]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231P_20Rnd_name">
+        <Original>7.62x39mm - 20Rnd [57-N-231P]</Original>
+        <English>7.62x39mm - 20Rnd [57-N-231P]</English>
+        <Russian>7.62x39мм - 20 птр. [57-Н-231П]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231P_30Rnd_name">
+        <Original>7.62x39mm - 30Rnd [57-N-231P]</Original>
+        <English>7.62x39mm - 30Rnd [57-N-231P]</English>
+        <Russian>7.62x39мм - 30 птр. [57-Н-231П]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231P_40Rnd_name">
+        <Original>7.62x39mm - 40Rnd [57-N-231P]</Original>
+        <English>7.62x39mm - 40Rnd [57-N-231P]</English>
+        <Russian>7.62x39мм - 40 птр. [57-Н-231П]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231P_50Rnd_name">
+        <Original>7.62x39mm - 50Rnd [57-N-231P]</Original>
+        <English>7.62x39mm - 50Rnd [57-N-231P]</English>
+        <Russian>7.62x39мм - 50 птр. [57-Н-231П]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231P_60Rnd_name">
+        <Original>7.62x39mm - 60Rnd [57-N-231P]</Original>
+        <English>7.62x39mm - 60Rnd [57-N-231P]</English>
+        <Russian>7.62x39мм - 60 птр. [57-Н-231П]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 7.62x39 57N231U">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231U_1Rnd_name">
+        <Original>7.62x39mm - 1Rnd [57-N-231U]</Original>
+        <English>7.62x39mm - 1Rnd [57-N-231U]</English>
+        <Russian>7.62x39мм - 1 птр. [57-Н-231У]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231U_10Rnd_name">
+        <Original>7.62x39mm - 10Rnd [57-N-231U]</Original>
+        <English>7.62x39mm - 10Rnd [57-N-231U]</English>
+        <Russian>7.62x39мм - 10 птр. [57-Н-231У]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231U_20Rnd_name">
+        <Original>7.62x39mm - 20Rnd [57-N-231U]</Original>
+        <English>7.62x39mm - 20Rnd [57-N-231U]</English>
+        <Russian>7.62x39мм - 20 птр. [57-Н-231У]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231U_30Rnd_name">
+        <Original>7.62x39mm - 30Rnd [57-N-231U]</Original>
+        <English>7.62x39mm - 30Rnd [57-N-231U]</English>
+        <Russian>7.62x39мм - 30 птр. [57-Н-231У]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231U_40Rnd_name">
+        <Original>7.62x39mm - 40Rnd [57-N-231U]</Original>
+        <English>7.62x39mm - 40Rnd [57-N-231U]</English>
+        <Russian>7.62x39мм - 40 птр. [57-Н-231У]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231U_50Rnd_name">
+        <Original>7.62x39mm - 50Rnd [57-N-231U]</Original>
+        <English>7.62x39mm - 50Rnd [57-N-231U]</English>
+        <Russian>7.62x39мм - 50 птр. [57-Н-231У]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x39_57N231U_60Rnd_name">
+        <Original>7.62x39mm - 60Rnd [57-N-231U]</Original>
+        <English>7.62x39mm - 60Rnd [57-N-231U]</English>
+        <Russian>7.62x39мм - 60 птр. [57-Н-231У]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 762x54 57N323S">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_57N323S_1Rnd_name">
+        <Original>7.62x54mm - 1Rnd [57-N-323S]</Original>
+        <English>7.62x39mm - 1Rnd [57-N-323S]</English>
+        <Russian>7.62x54мм - 1 птр. [57-Н-323С]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_57N323S_10Rnd_name">
+        <Original>7.62x54mm - 10Rnd [57-N-323S]</Original>
+        <English>7.62x39mm - 10Rnd [57-N-323S]</English>
+        <Russian>7.62x54мм - 10 птр. [57-Н-323С]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_57N323S_20Rnd_name">
+        <Original>7.62x54mm - 20Rnd [57-N-323S]</Original>
+        <English>7.62x39mm - 20Rnd [57-N-323S]</English>
+        <Russian>7.62x54мм - 20 птр. [57-Н-323С]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_57N323S_30Rnd_name">
+        <Original>7.62x54mm - 30Rnd [57-N-323S]</Original>
+        <English>7.62x39mm - 30Rnd [57-N-323S]</English>
+        <Russian>7.62x54мм - 30 птр. [57-Н-323С]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_57N323S_40Rnd_name">
+        <Original>7.62x54mm - 40Rnd [57-N-323S]</Original>
+        <English>7.62x39mm - 40Rnd [57-N-323S]</English>
+        <Russian>7.62x54мм - 40 птр. [57-Н-323С]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_57N323S_50Rnd_name">
+        <Original>7.62x54mm - 50Rnd [57-N-323S]</Original>
+        <English>7.62x39mm - 50Rnd [57-N-323S]</English>
+        <Russian>7.62x54мм - 50 птр. [57-Н-323С]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_57N323S_60Rnd_name">
+        <Original>7.62x54mm - 60Rnd [57-N-323S]</Original>
+        <English>7.62x39mm - 60Rnd [57-N-323S]</English>
+        <Russian>7.62x54мм - 60 птр. [57-Н-323С]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 762x54 7BZ3">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7BZ3_1Rnd_name">
+        <Original>7.62x54mm - 1Rnd [7BZ-3]</Original>
+        <English>7.62x39mm - 1Rnd [7BZ-3]</English>
+        <Russian>7.62x54мм - 1 птр. [7БЗ-3]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7BZ3_10Rnd_name">
+        <Original>7.62x54mm - 10Rnd [7BZ-3]</Original>
+        <English>7.62x39mm - 10Rnd [7BZ-3]</English>
+        <Russian>7.62x54мм - 10 птр. [7БЗ-3]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7BZ3_20Rnd_name">
+        <Original>7.62x54mm - 20Rnd [7BZ-3]</Original>
+        <English>7.62x39mm - 20Rnd [7BZ-3]</English>
+        <Russian>7.62x54мм - 20 птр. [7БЗ-3]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7BZ3_30Rnd_name">
+        <Original>7.62x54mm - 30Rnd [7BZ-3]</Original>
+        <English>7.62x39mm - 30Rnd [7BZ-3]</English>
+        <Russian>7.62x54мм - 30 птр. [7БЗ-3]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7BZ3_40Rnd_name">
+        <Original>7.62x54mm - 40Rnd [7BZ-3]</Original>
+        <English>7.62x39mm - 40Rnd [7BZ-3]</English>
+        <Russian>7.62x54мм - 40 птр. [7БЗ-3]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7BZ3_50Rnd_name">
+        <Original>7.62x54mm - 50Rnd [7BZ-3]</Original>
+        <English>7.62x39mm - 50Rnd [7BZ-3]</English>
+        <Russian>7.62x54мм - 50 птр. [7БЗ-3]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7BZ3_60Rnd_name">
+        <Original>7.62x54mm - 60Rnd [7BZ-3]</Original>
+        <English>7.62x39mm - 60Rnd [7BZ-3]</English>
+        <Russian>7.62x54мм - 60 птр. [7БЗ-3]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 762x54 7N1">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N1_1Rnd_name">
+        <Original>7.62x54mm - 1Rnd [7N1]</Original>
+        <English>7.62x39mm - 1Rnd [7N1]</English>
+        <Russian>7.62x54мм - 1 птр. [7Н1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N1_10Rnd_name">
+        <Original>7.62x54mm - 10Rnd [7N1]</Original>
+        <English>7.62x39mm - 10Rnd [7N1]</English>
+        <Russian>7.62x54мм - 10 птр. [7Н1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N1_20Rnd_name">
+        <Original>7.62x54mm - 20Rnd [7N1]</Original>
+        <English>7.62x39mm - 20Rnd [7N1]</English>
+        <Russian>7.62x54мм - 20 птр. [7Н1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N1_30Rnd_name">
+        <Original>7.62x54mm - 30Rnd [7N1]</Original>
+        <English>7.62x39mm - 30Rnd [7N1]</English>
+        <Russian>7.62x54мм - 30 птр. [7Н1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N1_40Rnd_name">
+        <Original>7.62x54mm - 40Rnd [7N1]</Original>
+        <English>7.62x39mm - 40Rnd [7N1]</English>
+        <Russian>7.62x54мм - 40 птр. [7Н1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N1_50Rnd_name">
+        <Original>7.62x54mm - 50Rnd [7N1]</Original>
+        <English>7.62x39mm - 50Rnd [7N1]</English>
+        <Russian>7.62x54мм - 50 птр. [7Н1]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N1_60Rnd_name">
+        <Original>7.62x54mm - 60Rnd [7N1]</Original>
+        <English>7.62x39mm - 60Rnd [7N1]</English>
+        <Russian>7.62x54мм - 60 птр. [7Н1]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 762x54 7N13">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N13_1Rnd_name">
+        <Original>7.62x54mm - 1Rnd [7N13]</Original>
+        <English>7.62x39mm - 1Rnd [7N13]</English>
+        <Russian>7.62x54мм - 1 птр. [7Н13]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N13_10Rnd_name">
+        <Original>7.62x54mm - 10Rnd [7N13]</Original>
+        <English>7.62x39mm - 10Rnd [7N13]</English>
+        <Russian>7.62x54мм - 10 птр. [7Н13]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N13_20Rnd_name">
+        <Original>7.62x54mm - 20Rnd [7N13]</Original>
+        <English>7.62x39mm - 20Rnd [7N13]</English>
+        <Russian>7.62x54мм - 20 птр. [7Н13]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N13_30Rnd_name">
+        <Original>7.62x54mm - 30Rnd [7N13]</Original>
+        <English>7.62x39mm - 30Rnd [7N13]</English>
+        <Russian>7.62x54мм - 30 птр. [7Н13]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N13_40Rnd_name">
+        <Original>7.62x54mm - 40Rnd [7N13]</Original>
+        <English>7.62x39mm - 40Rnd [7N13]</English>
+        <Russian>7.62x54мм - 40 птр. [7Н13]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N13_50Rnd_name">
+        <Original>7.62x54mm - 50Rnd [7N13]</Original>
+        <English>7.62x39mm - 50Rnd [7N13]</English>
+        <Russian>7.62x54мм - 50 птр. [7Н13]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N13_60Rnd_name">
+        <Original>7.62x54mm - 60Rnd [7N13]</Original>
+        <English>7.62x39mm - 60Rnd [7N13]</English>
+        <Russian>7.62x54мм - 60 птр. [7Н13]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 762x54 7N14">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N14_1Rnd_name">
+        <Original>7.62x54mm - 1Rnd [7N14]</Original>
+        <English>7.62x39mm - 1Rnd [7N14]</English>
+        <Russian>7.62x54мм - 1 птр. [7Н14]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N14_10Rnd_name">
+        <Original>7.62x54mm - 10Rnd [7N14]</Original>
+        <English>7.62x39mm - 10Rnd [7N14]</English>
+        <Russian>7.62x54мм - 10 птр. [7Н14]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N14_20Rnd_name">
+        <Original>7.62x54mm - 20Rnd [7N14]</Original>
+        <English>7.62x39mm - 20Rnd [7N14]</English>
+        <Russian>7.62x54мм - 20 птр. [7Н14]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N14_30Rnd_name">
+        <Original>7.62x54mm - 30Rnd [7N14]</Original>
+        <English>7.62x39mm - 30Rnd [7N14]</English>
+        <Russian>7.62x54мм - 30 птр. [7Н14]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N14_40Rnd_name">
+        <Original>7.62x54mm - 40Rnd [7N14]</Original>
+        <English>7.62x39mm - 40Rnd [7N14]</English>
+        <Russian>7.62x54мм - 40 птр. [7Н14]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N14_50Rnd_name">
+        <Original>7.62x54mm - 50Rnd [7N14]</Original>
+        <English>7.62x39mm - 50Rnd [7N14]</English>
+        <Russian>7.62x54мм - 50 птр. [7Н14]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N14_60Rnd_name">
+        <Original>7.62x54mm - 60Rnd [7N14]</Original>
+        <English>7.62x39mm - 60Rnd [7N14]</English>
+        <Russian>7.62x54мм - 60 птр. [7Н14]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 762x54 7N26">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N26_1Rnd_name">
+        <Original>7.62x54mm - 1Rnd [7N26]</Original>
+        <English>7.62x39mm - 1Rnd [7N26]</English>
+        <Russian>7.62x54мм - 1 птр. [7Н26]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N26_10Rnd_name">
+        <Original>7.62x54mm - 10Rnd [7N26]</Original>
+        <English>7.62x39mm - 10Rnd [7N26]</English>
+        <Russian>7.62x54мм - 10 птр. [7Н26]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N26_20Rnd_name">
+        <Original>7.62x54mm - 20Rnd [7N26]</Original>
+        <English>7.62x39mm - 20Rnd [7N26]</English>
+        <Russian>7.62x54мм - 20 птр. [7Н26]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N26_30Rnd_name">
+        <Original>7.62x54mm - 30Rnd [7N26]</Original>
+        <English>7.62x39mm - 30Rnd [7N26]</English>
+        <Russian>7.62x54мм - 30 птр. [7Н26]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N26_40Rnd_name">
+        <Original>7.62x54mm - 40Rnd [7N26]</Original>
+        <English>7.62x39mm - 40Rnd [7N26]</English>
+        <Russian>7.62x54мм - 40 птр. [7Н26]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N26_50Rnd_name">
+        <Original>7.62x54mm - 50Rnd [7N26]</Original>
+        <English>7.62x39mm - 50Rnd [7N26]</English>
+        <Russian>7.62x54мм - 50 птр. [7Н26]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7N26_60Rnd_name">
+        <Original>7.62x54mm - 60Rnd [7N26]</Original>
+        <English>7.62x39mm - 60Rnd [7N26]</English>
+        <Russian>7.62x54мм - 60 птр. [7Н26]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 762x54 7T2">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7T2_1Rnd_name">
+        <Original>7.62x54mm - 1Rnd [7T2]</Original>
+        <English>7.62x39mm - 1Rnd [7T2]</English>
+        <Russian>7.62x54мм - 1 птр. [7T2]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7T2_10Rnd_name">
+        <Original>7.62x54mm - 10Rnd [7T2]</Original>
+        <English>7.62x39mm - 10Rnd [7T2]</English>
+        <Russian>7.62x54мм - 10 птр. [7T2]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7T2_20Rnd_name">
+        <Original>7.62x54mm - 20Rnd [7T2]</Original>
+        <English>7.62x39mm - 20Rnd [7T2]</English>
+        <Russian>7.62x54мм - 20 птр. [7T2]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7T2_30Rnd_name">
+        <Original>7.62x54mm - 30Rnd [7T2]</Original>
+        <English>7.62x39mm - 30Rnd [7T2]</English>
+        <Russian>7.62x54мм - 30 птр. [7T2]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7T2_40Rnd_name">
+        <Original>7.62x54mm - 40Rnd [7T2]</Original>
+        <English>7.62x39mm - 40Rnd [7T2]</English>
+        <Russian>7.62x54мм - 40 птр. [7T2]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7T2_50Rnd_name">
+        <Original>7.62x54mm - 50Rnd [7T2]</Original>
+        <English>7.62x39mm - 50Rnd [7T2]</English>
+        <Russian>7.62x54мм - 50 птр. [7T2]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_762x54_7T2_60Rnd_name">
+        <Original>7.62x54mm - 60Rnd [7T2]</Original>
+        <English>7.62x39mm - 60Rnd [7T2]</English>
+        <Russian>7.62x54мм - 60 птр. [7T2]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 9x18 57N181S">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_57N181S_1Rnd_name">
+        <Original>9x18mm - 1Rnd [57-N-181S]</Original>
+        <English>9x18mm - 1Rnd [57-N-181S]</English>
+        <Russian>9x18мм - 1 птр. [57-Н-181С]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_57N181S_10Rnd_name">
+        <Original>9x18mm - 10Rnd [57-N-181S]</Original>
+        <English>9x18mm - 10Rnd [57-N-181S]</English>
+        <Russian>9x18мм - 10 птр. [57-Н-181С]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_57N181S_20Rnd_name">
+        <Original>9x18mm - 20Rnd [57-N-181S]</Original>
+        <English>9x18mm - 20Rnd [57-N-181S]</English>
+        <Russian>9x18мм - 20 птр. [57-Н-181С]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_57N181S_30Rnd_name">
+        <Original>9x18mm - 30Rnd [57-N-181S]</Original>
+        <English>9x18mm - 30Rnd [57-N-181S]</English>
+        <Russian>9x18мм - 30 птр. [57-Н-181С]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_57N181S_40Rnd_name">
+        <Original>9x18mm - 40Rnd [57-N-181S]</Original>
+        <English>9x18mm - 40Rnd [57-N-181S]</English>
+        <Russian>9x18мм - 40 птр. [57-Н-181С]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_57N181S_50Rnd_name">
+        <Original>9x18mm - 50Rnd [57-N-181S]</Original>
+        <English>9x18mm - 50Rnd [57-N-181S]</English>
+        <Russian>9x18мм - 50 птр. [57-Н-181С]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_57N181S_60Rnd_name">
+        <Original>9x18mm - 60Rnd [57-N-181S]</Original>
+        <English>9x18mm - 60Rnd [57-N-181S]</English>
+        <Russian>9x18мм - 60 птр. [57-Н-181С]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 9x18 Basic">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_Basic_1Rnd_name">
+        <Original>9x18mm - 1Rnd</Original>
+        <English>9x18mm - 1Rnd</English>
+        <Russian>9x18мм - 1 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_Basic_10Rnd_name">
+        <Original>9x18mm - 10Rnd</Original>
+        <English>9x18mm - 10Rnd</English>
+        <Russian>9x18мм - 10 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_Basic_20Rnd_name">
+        <Original>9x18mm - 20Rnd</Original>
+        <English>9x18mm - 20Rnd</English>
+        <Russian>9x18мм - 20 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_Basic_30Rnd_name">
+        <Original>9x18mm - 30Rnd</Original>
+        <English>9x18mm - 30Rnd</English>
+        <Russian>9x18мм - 30 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_Basic_40Rnd_name">
+        <Original>9x18mm - 40Rnd</Original>
+        <English>9x18mm - 40Rnd</English>
+        <Russian>9x18мм - 40 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_Basic_50Rnd_name">
+        <Original>9x18mm - 50Rnd</Original>
+        <English>9x18mm - 50Rnd</English>
+        <Russian>9x18мм - 50 птр.</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x18_Basic_60Rnd_name">
+        <Original>9x18mm - 60Rnd</Original>
+        <English>9x18mm - 60Rnd</English>
+        <Russian>9x18мм - 60 птр.</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 9x19 7N21">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N21_1Rnd_name">
+        <Original>9x19mm - 1Rnd [7N21]</Original>
+        <English>9x19mm - 1Rnd [7N21]</English>
+        <Russian>9x19мм - 1 птр. [7Н21]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N21_10Rnd_name">
+        <Original>9x19mm - 10Rnd [7N21]</Original>
+        <English>9x19mm - 10Rnd [7N21]</English>
+        <Russian>9x19мм - 10 птр. [7Н21]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N21_20Rnd_name">
+        <Original>9x19mm - 20Rnd [7N21]</Original>
+        <English>9x19mm - 20Rnd [7N21]</English>
+        <Russian>9x19мм - 20 птр. [7Н21]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N21_30Rnd_name">
+        <Original>9x19mm - 30Rnd [7N21]</Original>
+        <English>9x19mm - 30Rnd [7N21]</English>
+        <Russian>9x19мм - 30 птр. [7Н21]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N21_40Rnd_name">
+        <Original>9x19mm - 40Rnd [7N21]</Original>
+        <English>9x19mm - 40Rnd [7N21]</English>
+        <Russian>9x19мм - 40 птр. [7Н21]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N21_50Rnd_name">
+        <Original>9x19mm - 50Rnd [7N21]</Original>
+        <English>9x19mm - 50Rnd [7N21]</English>
+        <Russian>9x19мм - 50 птр. [7Н21]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N21_60Rnd_name">
+        <Original>9x19mm - 60Rnd [7N21]</Original>
+        <English>9x19mm - 60Rnd [7N21]</English>
+        <Russian>9x19мм - 60 птр. [7Н21]</Russian>
+      </Key>
+    </Container>
+    <Container name="Ammo 9x19 7N31">
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N31_1Rnd_name">
+        <Original>9x19mm - 1Rnd [7N31]</Original>
+        <English>9x19mm - 1Rnd [7N31]</English>
+        <Russian>9x19мм - 1 птр. [7Н31]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N31_10Rnd_name">
+        <Original>9x19mm - 10Rnd [7N31]</Original>
+        <English>9x19mm - 10Rnd [7N31]</English>
+        <Russian>9x19мм - 10 птр. [7Н31]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N31_20Rnd_name">
+        <Original>9x19mm - 20Rnd [7N31]</Original>
+        <English>9x19mm - 20Rnd [7N31]</English>
+        <Russian>9x19мм - 20 птр. [7Н31]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N31_30Rnd_name">
+        <Original>9x19mm - 30Rnd [7N31]</Original>
+        <English>9x19mm - 30Rnd [7N31]</English>
+        <Russian>9x19мм - 30 птр. [7Н31]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N31_40Rnd_name">
+        <Original>9x19mm - 40Rnd [7N31]</Original>
+        <English>9x19mm - 40Rnd [7N31]</English>
+        <Russian>9x19мм - 40 птр. [7Н31]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N31_50Rnd_name">
+        <Original>9x19mm - 50Rnd [7N31]</Original>
+        <English>9x19mm - 50Rnd [7N31]</English>
+        <Russian>9x19мм - 50 птр. [7Н31]</Russian>
+      </Key>
+      <Key ID="STR_CVO_AFRF_greenmag_ammo_9x19_7N31_60Rnd_name">
+        <Original>9x19mm - 60Rnd [7N31]</Original>
+        <English>9x19mm - 60Rnd [7N31]</English>
+        <Russian>9x19мм - 60 птр. [7Н31]</Russian>
+      </Key>
+    </Container>
+  </Package>
+</Project>
