@@ -14,37 +14,74 @@ class CfgPatches {
 		units[] = {};
 		weapons[] = {
 			// 5.45x39 Ammo
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N6_1Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N6_30Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N6_60Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N6M_1Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N6M_30Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N6M_60Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N10_1Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N10_30Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N10_60Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N11_1Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N11_30Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N11_60Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N22_1Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N22_30Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7N22_60Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7T3M_1Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7T3M_30Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7T3M_60Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7U1_1Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7U1_30Rnd",
-			"CVO_GreenMag_AFRF_Ammo_545x39_7U1_60Rnd",
+			QAMMO_CLASS(545x39_7N6_1Rnd),
+			QAMMO_CLASS(545x39_7N6_30Rnd),
+			QAMMO_CLASS(545x39_7N6_60Rnd),
+			QAMMO_CLASS(545x39_7N6M_1Rnd),
+			QAMMO_CLASS(545x39_7N6M_30Rnd),
+			QAMMO_CLASS(545x39_7N6M_60Rnd),
+			QAMMO_CLASS(545x39_7N10_1Rnd),
+			QAMMO_CLASS(545x39_7N10_30Rnd),
+			QAMMO_CLASS(545x39_7N10_60Rnd),
+			QAMMO_CLASS(545x39_7N22_1Rnd),
+			QAMMO_CLASS(545x39_7N22_30Rnd),
+			QAMMO_CLASS(545x39_7N22_60Rnd),
+			QAMMO_CLASS(545x39_7T3M_1Rnd),
+			QAMMO_CLASS(545x39_7T3M_30Rnd),
+			QAMMO_CLASS(545x39_7T3M_60Rnd),
+			QAMMO_CLASS(545x39_7U1_1Rnd),
+			QAMMO_CLASS(545x39_7U1_30Rnd),
+			QAMMO_CLASS(545x39_7U1_60Rnd),
 			// 7.62x39 Ammo
-			"CVO_GreenMag_AFRF_Ammo_762x39_57N231_1Rnd",
-			"CVO_GreenMag_AFRF_Ammo_762x39_57N231_30Rnd",
-			"CVO_GreenMag_AFRF_Ammo_762x39_57N231_60Rnd",
-			"CVO_GreenMag_AFRF_Ammo_762x39_57N231P_1Rnd",
-			"CVO_GreenMag_AFRF_Ammo_762x39_57N231P_30Rnd",
-			"CVO_GreenMag_AFRF_Ammo_762x39_57N231P_60Rnd",
-			"CVO_GreenMag_AFRF_Ammo_762x39_57N231U_1Rnd",
-			"CVO_GreenMag_AFRF_Ammo_762x39_57N231U_30Rnd",
-			"CVO_GreenMag_AFRF_Ammo_762x39_57N231U_60Rnd"
+			QAMMO_CLASS(762x39_57N231_1Rnd),
+			QAMMO_CLASS(762x39_57N231_30Rnd),
+			QAMMO_CLASS(762x39_57N231_60Rnd),
+			QAMMO_CLASS(762x39_57N231P_1Rnd),
+			QAMMO_CLASS(762x39_57N231P_30Rnd),
+			QAMMO_CLASS(762x39_57N231P_60Rnd),
+			QAMMO_CLASS(762x39_57N231U_1Rnd),
+			QAMMO_CLASS(762x39_57N231U_30Rnd),
+			QAMMO_CLASS(762x39_57N231U_60Rnd),
+			// 7.62x54 Ammo
+			QAMMO_CLASS(762x54_7N1_1Rnd),
+			QAMMO_CLASS(762x54_7N1_30Rnd),
+			QAMMO_CLASS(762x54_7N1_60Rnd),
+			QAMMO_CLASS(762x54_7N13_1Rnd),
+			QAMMO_CLASS(762x54_7N13_30Rnd),
+			QAMMO_CLASS(762x54_7N13_60Rnd),
+			QAMMO_CLASS(762x54_7N14_1Rnd),
+			QAMMO_CLASS(762x54_7N14_30Rnd),
+			QAMMO_CLASS(762x54_7N14_60Rnd),
+			QAMMO_CLASS(762x54_7N26_1Rnd),
+			QAMMO_CLASS(762x54_7N26_30Rnd),
+			QAMMO_CLASS(762x54_7N26_60Rnd),
+			QAMMO_CLASS(762x54_7BZ3_1Rnd),
+			QAMMO_CLASS(762x54_7BZ3_30Rnd),
+			QAMMO_CLASS(762x54_7BZ3_60Rnd),
+			QAMMO_CLASS(762x54_57N323S_1Rnd),
+			QAMMO_CLASS(762x54_57N323S_30Rnd),
+			QAMMO_CLASS(762x54_57N323S_60Rnd),
+			// 7.62x54 Belts
+			QBELT_CLASS(762x54_7N13_50),
+			QBELT_CLASS(762x54_7N13_100),
+			QBELT_CLASS(762x54_7N13_150),
+			QBELT_CLASS(762x54_7N13_200),
+			QBELT_CLASS(762x54_7N26_50),
+			QBELT_CLASS(762x54_7N26_100),
+			QBELT_CLASS(762x54_7N26_150),
+			QBELT_CLASS(762x54_7N26_200),
+			QBELT_CLASS(762x54_7T2_50),
+			QBELT_CLASS(762x54_7T2_100),
+			QBELT_CLASS(762x54_7T2_150),
+			QBELT_CLASS(762x54_7T2_200),
+			QBELT_CLASS(762x54_7BZ3_50),
+			QBELT_CLASS(762x54_7BZ3_100),
+			QBELT_CLASS(762x54_7BZ3_150),
+			QBELT_CLASS(762x54_7BZ3_200),
+			QBELT_CLASS(762x54_57N323S_50),
+			QBELT_CLASS(762x54_57N323S_100),
+			QBELT_CLASS(762x54_57N323S_150),
+			QBELT_CLASS(762x54_57N323S_200)
 		};
 	};
 };
@@ -53,8 +90,9 @@ class CfgMagazines {
 	// External Classes
 	class CA_Magazine;
 
-	#include "magazines\afrf_545x39.hpp"
-	#include "magazines\afrf_762x39.hpp"
+	#include "magazines\rhs_afrf_545x39.hpp"
+	#include "magazines\rhs_afrf_762x39.hpp"
+	#include "magazines\rhs_afrf_762x54.hpp"
 
 };
 
@@ -93,12 +131,47 @@ class CfgWeapons {
 		author = "Skippie [CVO]";
 	};
 
+	class CVO_GreenMag_Belt_Core : CBA_MiscItem {
+		author = "Skippie [CVO]";
+
+		scope = 1;
+		scopeArsenal = 1;
+		scopeCurator = 1;
+
+		picture = "\z\greenmag\addons\main\data\belt.paa";
+	    model = "\A3\weapons_F\ammo\mag_univ.p3d";
+	    
+	    icon = "iconObject_circle";
+	    mapSize = 0.034;
+	};
+
 
 	// Ammo
-	#include "ammo\afrf_545x39.hpp"
-	#include "ammo\afrf_762x39.hpp"
+	#include "ammo\545x39_7N6.hpp"
+	#include "ammo\545x39_7N6M.hpp"
+	#include "ammo\545x39_7N10.hpp"
+	#include "ammo\545x39_7N22.hpp"
+	#include "ammo\545x39_7T3M.hpp"
+	#include "ammo\545x39_7U1.hpp"
+
+	#include "ammo\762x39_57N231.hpp"
+	#include "ammo\762x39_57N231P.hpp"
+	#include "ammo\762x39_57N231U.hpp"
+
+	#include "ammo\762x54_57N323S.hpp"
+	#include "ammo\762x54_7BZ3.hpp"
+	#include "ammo\762x54_7N1.hpp"
+	#include "ammo\762x54_7N13.hpp"
+	#include "ammo\762x54_7N14.hpp"
+	#include "ammo\762x54_7N26.hpp"
+	#include "ammo\762x54_7T2.hpp"
 
 	// Belts
+	#include "belts\762x54_57N323S.hpp"
+	#include "belts\762x54_7BZ3.hpp"
+	#include "belts\762x54_7N13.hpp"
+	#include "belts\762x54_7N26.hpp"
+	#include "belts\762x54_7T2.hpp"
 	
 };
 #endif
