@@ -1,9 +1,9 @@
 class BELT_CLASS(762x54_7T2_Core) : CVO_GreenMag_Belt_Core {
 	displayName = "Belt 7.62x54 [7T2]";
 
-	greenmag_item = QUOTE(BELT_CLASS(762x54_7T2));
+	greenmag_item = QBELT_CLASS(762x54_7T2);
 	greenmag_basicammo = "greenmag_ammo_762x54_basic_1Rnd";
-	greenmag_ammo = QUOTE(AMMO_CLASS(762x54_7T2_1Rnd));
+	greenmag_ammo = QAMMO_CLASS(762x54_7T2_1Rnd);
 	greenmag_typeName = "762x54_7T2";
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
