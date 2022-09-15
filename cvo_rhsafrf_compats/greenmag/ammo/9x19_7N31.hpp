@@ -5,7 +5,7 @@ class AMMO_CLASS(9x19_7N31_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
 	scope = 2;
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
-		mass = 0.22;
+		mass = 0.17;
 	};
 };
 
@@ -17,7 +17,7 @@ class AMMO_CLASS(9x19_7N31_10Rnd) : CVO_GreenMag_Ammo_Core_10Rnd {
 	greenmag_ammotype = QAMMO_CLASS(9x19_7N31_1Rnd);
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
-		mass = 2.2;
+		mass = 1.7;
 	};
 };
 
@@ -29,7 +29,7 @@ class AMMO_CLASS(9x19_7N31_20Rnd) : CVO_GreenMag_Ammo_Core_20Rnd {
 	greenmag_ammotype = QAMMO_CLASS(9x19_7N31_1Rnd);
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
-		mass = 4.4;
+		mass = 3.4;
 	};
 };
 
@@ -43,7 +43,7 @@ class AMMO_CLASS(9x19_7N31_30Rnd) : CVO_GreenMag_Ammo_Core_30Rnd {
 	greenmag_ammotype = QAMMO_CLASS(9x19_7N31_1Rnd);
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
-		mass = 6.6;
+		mass = 5.1;
 	};
 };
 
@@ -55,7 +55,7 @@ class AMMO_CLASS(9x19_7N31_40Rnd) : CVO_GreenMag_Ammo_Core_40Rnd {
 	greenmag_ammotype = QAMMO_CLASS(9x19_7N31_1Rnd);
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
-		mass = 8.8;
+		mass = 6.8;
 	};
 };
 
@@ -67,7 +67,7 @@ class AMMO_CLASS(9x19_7N31_50Rnd) : CVO_GreenMag_Ammo_Core_50Rnd {
 	greenmag_ammotype = QAMMO_CLASS(9x19_7N31_1Rnd);
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
-		mass = 11.0;
+		mass = 8.5;
 	};
 };
 
@@ -81,6 +81,6 @@ class AMMO_CLASS(9x19_7N31_60Rnd) : CVO_GreenMag_Ammo_Core_60Rnd {
 	greenmag_ammotype = QAMMO_CLASS(9x19_7N31_1Rnd);
 
 	class ItemInfo : CBA_MiscItem_ItemInfo {
-		mass = 13.2;
+		mass = 10.2;
 	};
 };
