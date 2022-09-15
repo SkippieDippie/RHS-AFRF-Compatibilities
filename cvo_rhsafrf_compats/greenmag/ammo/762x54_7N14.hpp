@@ -1,5 +1,5 @@
 class AMMO_CLASS(762x54_7N14_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
-	displayName = "7.62 7N14 - 1Rnd";
+	displayName = CESTRING(ammo,762x54_7N14_1Rnd,name);
 	picture = "\z\greenmag\addons\main\data\762mm.paa";
 
 	scope = 2;
@@ -10,7 +10,7 @@ class AMMO_CLASS(762x54_7N14_1Rnd) : CVO_GreenMag_Ammo_Core_1Rnd {
 };
 
 class AMMO_CLASS(762x54_7N14_10Rnd) : CVO_GreenMag_Ammo_Core_10Rnd {
-	displayName = "7.62 7N14 - 10Rnd";
+	displayName = CESTRING(ammo,762x54_7N14_10Rnd,name);
 
 	scope = 2;
 	
@@ -22,7 +22,7 @@ class AMMO_CLASS(762x54_7N14_10Rnd) : CVO_GreenMag_Ammo_Core_10Rnd {
 };
 
 class AMMO_CLASS(762x54_7N14_20Rnd) : CVO_GreenMag_Ammo_Core_20Rnd {
-	displayName = "7.62 7N14 - 20Rnd";
+	displayName = CESTRING(ammo,762x54_7N14_20Rnd,name);
 
 	scope = 2;
 	
@@ -34,7 +34,7 @@ class AMMO_CLASS(762x54_7N14_20Rnd) : CVO_GreenMag_Ammo_Core_20Rnd {
 };
 
 class AMMO_CLASS(762x54_7N14_30Rnd) : CVO_GreenMag_Ammo_Core_30Rnd {
-	displayName = "7.62 7N14 - 30Rnd";
+	displayName = CESTRING(ammo,762x54_7N14_30Rnd,name);
 
 	scope = 2;
 	scopeArsenal=2;
@@ -48,7 +48,7 @@ class AMMO_CLASS(762x54_7N14_30Rnd) : CVO_GreenMag_Ammo_Core_30Rnd {
 };
 
 class AMMO_CLASS(762x54_7N14_40Rnd) : CVO_GreenMag_Ammo_Core_40Rnd {
-	displayName = "7.62 7N14 - 40Rnd";
+	displayName = CESTRING(ammo,762x54_7N14_40Rnd,name);
 
 	scope = 2;
 	
@@ -60,7 +60,7 @@ class AMMO_CLASS(762x54_7N14_40Rnd) : CVO_GreenMag_Ammo_Core_40Rnd {
 };
 
 class AMMO_CLASS(762x54_7N14_50Rnd) : CVO_GreenMag_Ammo_Core_50Rnd {
-	displayName = "7.62 7N14 - 50Rnd";
+	displayName = CESTRING(ammo,762x54_7N14_50Rnd,name);
 
 	scope = 2;
 	
@@ -72,7 +72,7 @@ class AMMO_CLASS(762x54_7N14_50Rnd) : CVO_GreenMag_Ammo_Core_50Rnd {
 };
 
 class AMMO_CLASS(762x54_7N14_60Rnd) : CVO_GreenMag_Ammo_Core_60Rnd {
-	displayName = "7.62 7N14 - 60Rnd";
+	displayName = CESTRING(ammo,762x54_7N14_60Rnd,name);
 
 	scope = 2;
 	scopeArsenal=2;
