@@ -1,5 +1,5 @@
-class BELT_CLASS(762x54_7T2_Core) : CVO_GreenMag_Belt_Core {
-	displayName = "Belt 7.62x54 [7T2]";
+class CVO_AFRF_greenmag_CoreBelt_762x54_7T2 : CVO_GreenMag_Belt_Core {
+	displayName = CESTRING(beltlinked,762x54_7T2_Core,name);
 
 	greenmag_item = QBELT_CLASS(762x54_7T2);
 	greenmag_basicammo = "greenmag_ammo_762x54_basic_1Rnd";
@@ -13,8 +13,8 @@ class BELT_CLASS(762x54_7T2_Core) : CVO_GreenMag_Belt_Core {
 
 
 
-class BELT_CLASS(762x54_7T2_1) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 1Rnd";
+class BELT_CLASS(762x54_7T2_1) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_1,name);
 	
 	greenmag_bullets = 1;
 
@@ -23,8 +23,8 @@ class BELT_CLASS(762x54_7T2_1) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_2) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 2Rnd";
+class BELT_CLASS(762x54_7T2_2) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_2,name);
 	
 	greenmag_bullets = 2;
 
@@ -33,8 +33,8 @@ class BELT_CLASS(762x54_7T2_2) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_3) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 3Rnd";
+class BELT_CLASS(762x54_7T2_3) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_3,name);
 	
 	greenmag_bullets = 3;
 
@@ -43,8 +43,8 @@ class BELT_CLASS(762x54_7T2_3) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_4) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 4Rnd";
+class BELT_CLASS(762x54_7T2_4) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_4,name);
 	
 	greenmag_bullets = 4;
 
@@ -53,8 +53,8 @@ class BELT_CLASS(762x54_7T2_4) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_5) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 5Rnd";
+class BELT_CLASS(762x54_7T2_5) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_5,name);
 	
 	greenmag_bullets = 5;
 
@@ -63,8 +63,8 @@ class BELT_CLASS(762x54_7T2_5) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_6) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 6Rnd";
+class BELT_CLASS(762x54_7T2_6) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_6,name);
 	
 	greenmag_bullets = 6;
 
@@ -73,8 +73,8 @@ class BELT_CLASS(762x54_7T2_6) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_7) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 7Rnd";
+class BELT_CLASS(762x54_7T2_7) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_7,name);
 	
 	greenmag_bullets = 7;
 
@@ -83,8 +83,8 @@ class BELT_CLASS(762x54_7T2_7) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_8) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 8Rnd";
+class BELT_CLASS(762x54_7T2_8) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_8,name);
 	
 	greenmag_bullets = 8;
 
@@ -93,8 +93,8 @@ class BELT_CLASS(762x54_7T2_8) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_9) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 9Rnd";
+class BELT_CLASS(762x54_7T2_9) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_9,name);
 	
 	greenmag_bullets = 9;
 
@@ -103,8 +103,8 @@ class BELT_CLASS(762x54_7T2_9) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_10) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 10Rnd";
+class BELT_CLASS(762x54_7T2_10) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_10,name);
 	
 	greenmag_bullets = 10;
 
@@ -113,8 +113,8 @@ class BELT_CLASS(762x54_7T2_10) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_11) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 11Rnd";
+class BELT_CLASS(762x54_7T2_11) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_11,name);
 	
 	greenmag_bullets = 11;
 
@@ -123,8 +123,8 @@ class BELT_CLASS(762x54_7T2_11) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_12) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 12Rnd";
+class BELT_CLASS(762x54_7T2_12) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_12,name);
 	
 	greenmag_bullets = 12;
 
@@ -133,8 +133,8 @@ class BELT_CLASS(762x54_7T2_12) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_13) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 13Rnd";
+class BELT_CLASS(762x54_7T2_13) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_13,name);
 	
 	greenmag_bullets = 13;
 
@@ -143,8 +143,8 @@ class BELT_CLASS(762x54_7T2_13) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_14) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 14Rnd";
+class BELT_CLASS(762x54_7T2_14) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_14,name);
 	
 	greenmag_bullets = 14;
 
@@ -153,8 +153,8 @@ class BELT_CLASS(762x54_7T2_14) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_15) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 15Rnd";
+class BELT_CLASS(762x54_7T2_15) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_15,name);
 	
 	greenmag_bullets = 15;
 
@@ -163,8 +163,8 @@ class BELT_CLASS(762x54_7T2_15) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_16) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 16Rnd";
+class BELT_CLASS(762x54_7T2_16) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_16,name);
 	
 	greenmag_bullets = 16;
 
@@ -173,8 +173,8 @@ class BELT_CLASS(762x54_7T2_16) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_17) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 17Rnd";
+class BELT_CLASS(762x54_7T2_17) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_17,name);
 	
 	greenmag_bullets = 17;
 
@@ -183,8 +183,8 @@ class BELT_CLASS(762x54_7T2_17) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_18) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 18Rnd";
+class BELT_CLASS(762x54_7T2_18) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_18,name);
 	
 	greenmag_bullets = 18;
 
@@ -193,8 +193,8 @@ class BELT_CLASS(762x54_7T2_18) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_19) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 19Rnd";
+class BELT_CLASS(762x54_7T2_19) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_19,name);
 	
 	greenmag_bullets = 19;
 
@@ -203,8 +203,8 @@ class BELT_CLASS(762x54_7T2_19) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_20) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 20Rnd";
+class BELT_CLASS(762x54_7T2_20) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_20,name);
 	
 	greenmag_bullets = 20;
 
@@ -213,8 +213,8 @@ class BELT_CLASS(762x54_7T2_20) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_21) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 21Rnd";
+class BELT_CLASS(762x54_7T2_21) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_21,name);
 	
 	greenmag_bullets = 21;
 
@@ -223,8 +223,8 @@ class BELT_CLASS(762x54_7T2_21) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_22) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 22Rnd";
+class BELT_CLASS(762x54_7T2_22) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_22,name);
 	
 	greenmag_bullets = 22;
 
@@ -233,8 +233,8 @@ class BELT_CLASS(762x54_7T2_22) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_23) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 23Rnd";
+class BELT_CLASS(762x54_7T2_23) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_23,name);
 	
 	greenmag_bullets = 23;
 
@@ -243,8 +243,8 @@ class BELT_CLASS(762x54_7T2_23) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_24) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 24Rnd";
+class BELT_CLASS(762x54_7T2_24) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_24,name);
 	
 	greenmag_bullets = 24;
 
@@ -253,8 +253,8 @@ class BELT_CLASS(762x54_7T2_24) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_25) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 25Rnd";
+class BELT_CLASS(762x54_7T2_25) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_25,name);
 	
 	greenmag_bullets = 25;
 
@@ -263,8 +263,8 @@ class BELT_CLASS(762x54_7T2_25) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_26) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 26Rnd";
+class BELT_CLASS(762x54_7T2_26) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_26,name);
 	
 	greenmag_bullets = 26;
 
@@ -273,8 +273,8 @@ class BELT_CLASS(762x54_7T2_26) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_27) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 27Rnd";
+class BELT_CLASS(762x54_7T2_27) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_27,name);
 	
 	greenmag_bullets = 27;
 
@@ -283,8 +283,8 @@ class BELT_CLASS(762x54_7T2_27) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_28) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 28Rnd";
+class BELT_CLASS(762x54_7T2_28) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_28,name);
 	
 	greenmag_bullets = 28;
 
@@ -293,8 +293,8 @@ class BELT_CLASS(762x54_7T2_28) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_29) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 29Rnd";
+class BELT_CLASS(762x54_7T2_29) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_29,name);
 	
 	greenmag_bullets = 29;
 
@@ -303,8 +303,8 @@ class BELT_CLASS(762x54_7T2_29) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_30) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 30Rnd";
+class BELT_CLASS(762x54_7T2_30) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_30,name);
 	
 	greenmag_bullets = 30;
 
@@ -313,8 +313,8 @@ class BELT_CLASS(762x54_7T2_30) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_31) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 31Rnd";
+class BELT_CLASS(762x54_7T2_31) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_31,name);
 	
 	greenmag_bullets = 31;
 
@@ -323,8 +323,8 @@ class BELT_CLASS(762x54_7T2_31) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_32) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 32Rnd";
+class BELT_CLASS(762x54_7T2_32) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_32,name);
 	
 	greenmag_bullets = 32;
 
@@ -333,8 +333,8 @@ class BELT_CLASS(762x54_7T2_32) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_33) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 33Rnd";
+class BELT_CLASS(762x54_7T2_33) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_33,name);
 	
 	greenmag_bullets = 33;
 
@@ -343,8 +343,8 @@ class BELT_CLASS(762x54_7T2_33) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_34) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 34Rnd";
+class BELT_CLASS(762x54_7T2_34) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_34,name);
 	
 	greenmag_bullets = 34;
 
@@ -353,8 +353,8 @@ class BELT_CLASS(762x54_7T2_34) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_35) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 35Rnd";
+class BELT_CLASS(762x54_7T2_35) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_35,name);
 	
 	greenmag_bullets = 35;
 
@@ -363,8 +363,8 @@ class BELT_CLASS(762x54_7T2_35) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_36) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 36Rnd";
+class BELT_CLASS(762x54_7T2_36) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_36,name);
 	
 	greenmag_bullets = 36;
 
@@ -373,8 +373,8 @@ class BELT_CLASS(762x54_7T2_36) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_37) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 37Rnd";
+class BELT_CLASS(762x54_7T2_37) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_37,name);
 	
 	greenmag_bullets = 37;
 
@@ -383,8 +383,8 @@ class BELT_CLASS(762x54_7T2_37) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_38) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 38Rnd";
+class BELT_CLASS(762x54_7T2_38) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_38,name);
 	
 	greenmag_bullets = 38;
 
@@ -393,8 +393,8 @@ class BELT_CLASS(762x54_7T2_38) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_39) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 39Rnd";
+class BELT_CLASS(762x54_7T2_39) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_39,name);
 	
 	greenmag_bullets = 39;
 
@@ -403,8 +403,8 @@ class BELT_CLASS(762x54_7T2_39) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_40) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 40Rnd";
+class BELT_CLASS(762x54_7T2_40) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_40,name);
 	
 	greenmag_bullets = 40;
 
@@ -413,8 +413,8 @@ class BELT_CLASS(762x54_7T2_40) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_41) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 41Rnd";
+class BELT_CLASS(762x54_7T2_41) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_41,name);
 	
 	greenmag_bullets = 41;
 
@@ -423,8 +423,8 @@ class BELT_CLASS(762x54_7T2_41) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_42) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 42Rnd";
+class BELT_CLASS(762x54_7T2_42) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_42,name);
 	
 	greenmag_bullets = 42;
 
@@ -433,8 +433,8 @@ class BELT_CLASS(762x54_7T2_42) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_43) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 43Rnd";
+class BELT_CLASS(762x54_7T2_43) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_43,name);
 	
 	greenmag_bullets = 43;
 
@@ -443,8 +443,8 @@ class BELT_CLASS(762x54_7T2_43) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_44) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 44Rnd";
+class BELT_CLASS(762x54_7T2_44) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_44,name);
 	
 	greenmag_bullets = 44;
 
@@ -453,8 +453,8 @@ class BELT_CLASS(762x54_7T2_44) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_45) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 45Rnd";
+class BELT_CLASS(762x54_7T2_45) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_45,name);
 	
 	greenmag_bullets = 45;
 
@@ -463,8 +463,8 @@ class BELT_CLASS(762x54_7T2_45) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_46) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 46Rnd";
+class BELT_CLASS(762x54_7T2_46) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_46,name);
 	
 	greenmag_bullets = 46;
 
@@ -473,8 +473,8 @@ class BELT_CLASS(762x54_7T2_46) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_47) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 47Rnd";
+class BELT_CLASS(762x54_7T2_47) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_47,name);
 	
 	greenmag_bullets = 47;
 
@@ -483,8 +483,8 @@ class BELT_CLASS(762x54_7T2_47) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_48) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 48Rnd";
+class BELT_CLASS(762x54_7T2_48) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_48,name);
 	
 	greenmag_bullets = 48;
 
@@ -493,8 +493,8 @@ class BELT_CLASS(762x54_7T2_48) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_49) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 49Rnd";
+class BELT_CLASS(762x54_7T2_49) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_49,name);
 	
 	greenmag_bullets = 49;
 
@@ -503,8 +503,8 @@ class BELT_CLASS(762x54_7T2_49) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_50) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 50Rnd";
+class BELT_CLASS(762x54_7T2_50) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_50,name);
 	
 	greenmag_bullets = 50;
 
@@ -517,8 +517,8 @@ class BELT_CLASS(762x54_7T2_50) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_51) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 51Rnd";
+class BELT_CLASS(762x54_7T2_51) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_51,name);
 	
 	greenmag_bullets = 51;
 
@@ -527,8 +527,8 @@ class BELT_CLASS(762x54_7T2_51) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_52) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 52Rnd";
+class BELT_CLASS(762x54_7T2_52) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_52,name);
 	
 	greenmag_bullets = 52;
 
@@ -537,8 +537,8 @@ class BELT_CLASS(762x54_7T2_52) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_53) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 53Rnd";
+class BELT_CLASS(762x54_7T2_53) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_53,name);
 	
 	greenmag_bullets = 53;
 
@@ -547,8 +547,8 @@ class BELT_CLASS(762x54_7T2_53) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_54) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 54Rnd";
+class BELT_CLASS(762x54_7T2_54) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_54,name);
 	
 	greenmag_bullets = 54;
 
@@ -557,8 +557,8 @@ class BELT_CLASS(762x54_7T2_54) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_55) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 55Rnd";
+class BELT_CLASS(762x54_7T2_55) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_55,name);
 	
 	greenmag_bullets = 55;
 
@@ -567,8 +567,8 @@ class BELT_CLASS(762x54_7T2_55) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_56) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 56Rnd";
+class BELT_CLASS(762x54_7T2_56) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_56,name);
 	
 	greenmag_bullets = 56;
 
@@ -577,8 +577,8 @@ class BELT_CLASS(762x54_7T2_56) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_57) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 57Rnd";
+class BELT_CLASS(762x54_7T2_57) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_57,name);
 	
 	greenmag_bullets = 57;
 
@@ -587,8 +587,8 @@ class BELT_CLASS(762x54_7T2_57) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_58) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 58Rnd";
+class BELT_CLASS(762x54_7T2_58) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_58,name);
 	
 	greenmag_bullets = 58;
 
@@ -597,8 +597,8 @@ class BELT_CLASS(762x54_7T2_58) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_59) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 59Rnd";
+class BELT_CLASS(762x54_7T2_59) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_59,name);
 	
 	greenmag_bullets = 59;
 
@@ -607,8 +607,8 @@ class BELT_CLASS(762x54_7T2_59) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_60) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 60Rnd";
+class BELT_CLASS(762x54_7T2_60) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_60,name);
 	
 	greenmag_bullets = 60;
 
@@ -617,8 +617,8 @@ class BELT_CLASS(762x54_7T2_60) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_61) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 61Rnd";
+class BELT_CLASS(762x54_7T2_61) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_61,name);
 	
 	greenmag_bullets = 61;
 
@@ -627,8 +627,8 @@ class BELT_CLASS(762x54_7T2_61) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_62) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 62Rnd";
+class BELT_CLASS(762x54_7T2_62) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_62,name);
 	
 	greenmag_bullets = 62;
 
@@ -637,8 +637,8 @@ class BELT_CLASS(762x54_7T2_62) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_63) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 63Rnd";
+class BELT_CLASS(762x54_7T2_63) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_63,name);
 	
 	greenmag_bullets = 63;
 
@@ -647,8 +647,8 @@ class BELT_CLASS(762x54_7T2_63) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_64) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 64Rnd";
+class BELT_CLASS(762x54_7T2_64) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_64,name);
 	
 	greenmag_bullets = 64;
 
@@ -657,8 +657,8 @@ class BELT_CLASS(762x54_7T2_64) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_65) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 65Rnd";
+class BELT_CLASS(762x54_7T2_65) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_65,name);
 	
 	greenmag_bullets = 65;
 
@@ -667,8 +667,8 @@ class BELT_CLASS(762x54_7T2_65) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_66) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 66Rnd";
+class BELT_CLASS(762x54_7T2_66) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_66,name);
 	
 	greenmag_bullets = 66;
 
@@ -677,8 +677,8 @@ class BELT_CLASS(762x54_7T2_66) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_67) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 67Rnd";
+class BELT_CLASS(762x54_7T2_67) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_67,name);
 	
 	greenmag_bullets = 67;
 
@@ -687,8 +687,8 @@ class BELT_CLASS(762x54_7T2_67) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_68) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 68Rnd";
+class BELT_CLASS(762x54_7T2_68) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_68,name);
 	
 	greenmag_bullets = 68;
 
@@ -697,8 +697,8 @@ class BELT_CLASS(762x54_7T2_68) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_69) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 69Rnd";
+class BELT_CLASS(762x54_7T2_69) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_69,name);
 	
 	greenmag_bullets = 69;
 
@@ -707,8 +707,8 @@ class BELT_CLASS(762x54_7T2_69) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_70) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 70Rnd";
+class BELT_CLASS(762x54_7T2_70) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_70,name);
 	
 	greenmag_bullets = 70;
 
@@ -717,8 +717,8 @@ class BELT_CLASS(762x54_7T2_70) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_71) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 71Rnd";
+class BELT_CLASS(762x54_7T2_71) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_71,name);
 	
 	greenmag_bullets = 71;
 
@@ -727,8 +727,8 @@ class BELT_CLASS(762x54_7T2_71) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_72) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 72Rnd";
+class BELT_CLASS(762x54_7T2_72) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_72,name);
 	
 	greenmag_bullets = 72;
 
@@ -737,8 +737,8 @@ class BELT_CLASS(762x54_7T2_72) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_73) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 73Rnd";
+class BELT_CLASS(762x54_7T2_73) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_73,name);
 	
 	greenmag_bullets = 73;
 
@@ -747,8 +747,8 @@ class BELT_CLASS(762x54_7T2_73) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_74) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 74Rnd";
+class BELT_CLASS(762x54_7T2_74) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_74,name);
 	
 	greenmag_bullets = 74;
 
@@ -757,8 +757,8 @@ class BELT_CLASS(762x54_7T2_74) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_75) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 75Rnd";
+class BELT_CLASS(762x54_7T2_75) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_75,name);
 	
 	greenmag_bullets = 75;
 
@@ -767,8 +767,8 @@ class BELT_CLASS(762x54_7T2_75) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_76) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 76Rnd";
+class BELT_CLASS(762x54_7T2_76) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_76,name);
 	
 	greenmag_bullets = 76;
 
@@ -777,8 +777,8 @@ class BELT_CLASS(762x54_7T2_76) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_77) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 77Rnd";
+class BELT_CLASS(762x54_7T2_77) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_77,name);
 	
 	greenmag_bullets = 77;
 
@@ -787,8 +787,8 @@ class BELT_CLASS(762x54_7T2_77) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_78) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 78Rnd";
+class BELT_CLASS(762x54_7T2_78) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_78,name);
 	
 	greenmag_bullets = 78;
 
@@ -797,8 +797,8 @@ class BELT_CLASS(762x54_7T2_78) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_79) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 79Rnd";
+class BELT_CLASS(762x54_7T2_79) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_79,name);
 	
 	greenmag_bullets = 79;
 
@@ -807,8 +807,8 @@ class BELT_CLASS(762x54_7T2_79) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_80) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 80Rnd";
+class BELT_CLASS(762x54_7T2_80) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_80,name);
 	
 	greenmag_bullets = 80;
 
@@ -817,8 +817,8 @@ class BELT_CLASS(762x54_7T2_80) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_81) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 81Rnd";
+class BELT_CLASS(762x54_7T2_81) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_81,name);
 	
 	greenmag_bullets = 81;
 
@@ -827,8 +827,8 @@ class BELT_CLASS(762x54_7T2_81) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_82) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 82Rnd";
+class BELT_CLASS(762x54_7T2_82) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_82,name);
 	
 	greenmag_bullets = 82;
 
@@ -837,8 +837,8 @@ class BELT_CLASS(762x54_7T2_82) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_83) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 83Rnd";
+class BELT_CLASS(762x54_7T2_83) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_83,name);
 	
 	greenmag_bullets = 83;
 
@@ -847,8 +847,8 @@ class BELT_CLASS(762x54_7T2_83) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_84) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 84Rnd";
+class BELT_CLASS(762x54_7T2_84) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_84,name);
 	
 	greenmag_bullets = 84;
 
@@ -857,8 +857,8 @@ class BELT_CLASS(762x54_7T2_84) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_85) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 85Rnd";
+class BELT_CLASS(762x54_7T2_85) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_85,name);
 	
 	greenmag_bullets = 85;
 
@@ -867,8 +867,8 @@ class BELT_CLASS(762x54_7T2_85) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_86) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 86Rnd";
+class BELT_CLASS(762x54_7T2_86) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_86,name);
 	
 	greenmag_bullets = 86;
 
@@ -877,8 +877,8 @@ class BELT_CLASS(762x54_7T2_86) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_87) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 87Rnd";
+class BELT_CLASS(762x54_7T2_87) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_87,name);
 	
 	greenmag_bullets = 87;
 
@@ -887,8 +887,8 @@ class BELT_CLASS(762x54_7T2_87) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_88) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 88Rnd";
+class BELT_CLASS(762x54_7T2_88) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_88,name);
 	
 	greenmag_bullets = 88;
 
@@ -897,8 +897,8 @@ class BELT_CLASS(762x54_7T2_88) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_89) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 89Rnd";
+class BELT_CLASS(762x54_7T2_89) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_89,name);
 	
 	greenmag_bullets = 89;
 
@@ -907,8 +907,8 @@ class BELT_CLASS(762x54_7T2_89) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_90) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 90Rnd";
+class BELT_CLASS(762x54_7T2_90) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_90,name);
 	
 	greenmag_bullets = 90;
 
@@ -917,8 +917,8 @@ class BELT_CLASS(762x54_7T2_90) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_91) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 91Rnd";
+class BELT_CLASS(762x54_7T2_91) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_91,name);
 	
 	greenmag_bullets = 91;
 
@@ -927,8 +927,8 @@ class BELT_CLASS(762x54_7T2_91) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_92) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 92Rnd";
+class BELT_CLASS(762x54_7T2_92) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_92,name);
 	
 	greenmag_bullets = 92;
 
@@ -937,8 +937,8 @@ class BELT_CLASS(762x54_7T2_92) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_93) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 93Rnd";
+class BELT_CLASS(762x54_7T2_93) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_93,name);
 	
 	greenmag_bullets = 93;
 
@@ -947,8 +947,8 @@ class BELT_CLASS(762x54_7T2_93) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_94) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 94Rnd";
+class BELT_CLASS(762x54_7T2_94) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_94,name);
 	
 	greenmag_bullets = 94;
 
@@ -957,8 +957,8 @@ class BELT_CLASS(762x54_7T2_94) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_95) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 95Rnd";
+class BELT_CLASS(762x54_7T2_95) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_95,name);
 	
 	greenmag_bullets = 95;
 
@@ -967,8 +967,8 @@ class BELT_CLASS(762x54_7T2_95) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_96) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 96Rnd";
+class BELT_CLASS(762x54_7T2_96) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_96,name);
 	
 	greenmag_bullets = 96;
 
@@ -977,8 +977,8 @@ class BELT_CLASS(762x54_7T2_96) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_97) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 97Rnd";
+class BELT_CLASS(762x54_7T2_97) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_97,name);
 	
 	greenmag_bullets = 97;
 
@@ -987,8 +987,8 @@ class BELT_CLASS(762x54_7T2_97) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_98) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 98Rnd";
+class BELT_CLASS(762x54_7T2_98) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_98,name);
 	
 	greenmag_bullets = 98;
 
@@ -997,8 +997,8 @@ class BELT_CLASS(762x54_7T2_98) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_99) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 99Rnd";
+class BELT_CLASS(762x54_7T2_99) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_99,name);
 	
 	greenmag_bullets = 99;
 
@@ -1007,8 +1007,8 @@ class BELT_CLASS(762x54_7T2_99) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_100) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 100Rnd";
+class BELT_CLASS(762x54_7T2_100) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_100,name);
 	
 	greenmag_bullets = 100;
 
@@ -1020,8 +1020,8 @@ class BELT_CLASS(762x54_7T2_100) : BELT_CLASS(762x54_7T2_Core) {
 		mass = 48.0;
 	};
 };
-class BELT_CLASS(762x54_7T2_101) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 101Rnd";
+class BELT_CLASS(762x54_7T2_101) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_101,name);
 	
 	greenmag_bullets = 101;
 
@@ -1030,8 +1030,8 @@ class BELT_CLASS(762x54_7T2_101) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_102) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 102Rnd";
+class BELT_CLASS(762x54_7T2_102) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_102,name);
 	
 	greenmag_bullets = 102;
 
@@ -1040,8 +1040,8 @@ class BELT_CLASS(762x54_7T2_102) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_103) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 103Rnd";
+class BELT_CLASS(762x54_7T2_103) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_103,name);
 	
 	greenmag_bullets = 103;
 
@@ -1050,8 +1050,8 @@ class BELT_CLASS(762x54_7T2_103) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_104) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 104Rnd";
+class BELT_CLASS(762x54_7T2_104) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_104,name);
 	
 	greenmag_bullets = 104;
 
@@ -1060,8 +1060,8 @@ class BELT_CLASS(762x54_7T2_104) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_105) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 105Rnd";
+class BELT_CLASS(762x54_7T2_105) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_105,name);
 	
 	greenmag_bullets = 105;
 
@@ -1070,8 +1070,8 @@ class BELT_CLASS(762x54_7T2_105) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_106) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 106Rnd";
+class BELT_CLASS(762x54_7T2_106) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_106,name);
 	
 	greenmag_bullets = 106;
 
@@ -1080,8 +1080,8 @@ class BELT_CLASS(762x54_7T2_106) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_107) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 107Rnd";
+class BELT_CLASS(762x54_7T2_107) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_107,name);
 	
 	greenmag_bullets = 107;
 
@@ -1090,8 +1090,8 @@ class BELT_CLASS(762x54_7T2_107) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_108) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 108Rnd";
+class BELT_CLASS(762x54_7T2_108) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_108,name);
 	
 	greenmag_bullets = 108;
 
@@ -1100,8 +1100,8 @@ class BELT_CLASS(762x54_7T2_108) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_109) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 109Rnd";
+class BELT_CLASS(762x54_7T2_109) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_109,name);
 	
 	greenmag_bullets = 109;
 
@@ -1110,8 +1110,8 @@ class BELT_CLASS(762x54_7T2_109) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_110) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 110Rnd";
+class BELT_CLASS(762x54_7T2_110) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_110,name);
 	
 	greenmag_bullets = 110;
 
@@ -1120,8 +1120,8 @@ class BELT_CLASS(762x54_7T2_110) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_111) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 111Rnd";
+class BELT_CLASS(762x54_7T2_111) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_111,name);
 	
 	greenmag_bullets = 111;
 
@@ -1130,8 +1130,8 @@ class BELT_CLASS(762x54_7T2_111) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_112) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 112Rnd";
+class BELT_CLASS(762x54_7T2_112) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_112,name);
 	
 	greenmag_bullets = 112;
 
@@ -1140,8 +1140,8 @@ class BELT_CLASS(762x54_7T2_112) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_113) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 113Rnd";
+class BELT_CLASS(762x54_7T2_113) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_113,name);
 	
 	greenmag_bullets = 113;
 
@@ -1150,8 +1150,8 @@ class BELT_CLASS(762x54_7T2_113) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_114) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 114Rnd";
+class BELT_CLASS(762x54_7T2_114) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_114,name);
 	
 	greenmag_bullets = 114;
 
@@ -1160,8 +1160,8 @@ class BELT_CLASS(762x54_7T2_114) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_115) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 115Rnd";
+class BELT_CLASS(762x54_7T2_115) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_115,name);
 	
 	greenmag_bullets = 115;
 
@@ -1170,8 +1170,8 @@ class BELT_CLASS(762x54_7T2_115) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_116) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 116Rnd";
+class BELT_CLASS(762x54_7T2_116) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_116,name);
 	
 	greenmag_bullets = 116;
 
@@ -1180,8 +1180,8 @@ class BELT_CLASS(762x54_7T2_116) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_117) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 117Rnd";
+class BELT_CLASS(762x54_7T2_117) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_117,name);
 	
 	greenmag_bullets = 117;
 
@@ -1190,8 +1190,8 @@ class BELT_CLASS(762x54_7T2_117) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_118) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 118Rnd";
+class BELT_CLASS(762x54_7T2_118) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_118,name);
 	
 	greenmag_bullets = 118;
 
@@ -1200,8 +1200,8 @@ class BELT_CLASS(762x54_7T2_118) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_119) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 119Rnd";
+class BELT_CLASS(762x54_7T2_119) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_119,name);
 	
 	greenmag_bullets = 119;
 
@@ -1210,8 +1210,8 @@ class BELT_CLASS(762x54_7T2_119) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_120) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 120Rnd";
+class BELT_CLASS(762x54_7T2_120) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_120,name);
 	
 	greenmag_bullets = 120;
 
@@ -1220,8 +1220,8 @@ class BELT_CLASS(762x54_7T2_120) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_121) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 121Rnd";
+class BELT_CLASS(762x54_7T2_121) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_121,name);
 	
 	greenmag_bullets = 121;
 
@@ -1230,8 +1230,8 @@ class BELT_CLASS(762x54_7T2_121) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_122) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 122Rnd";
+class BELT_CLASS(762x54_7T2_122) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_122,name);
 	
 	greenmag_bullets = 122;
 
@@ -1240,8 +1240,8 @@ class BELT_CLASS(762x54_7T2_122) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_123) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 123Rnd";
+class BELT_CLASS(762x54_7T2_123) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_123,name);
 	
 	greenmag_bullets = 123;
 
@@ -1250,8 +1250,8 @@ class BELT_CLASS(762x54_7T2_123) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_124) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 124Rnd";
+class BELT_CLASS(762x54_7T2_124) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_124,name);
 	
 	greenmag_bullets = 124;
 
@@ -1260,8 +1260,8 @@ class BELT_CLASS(762x54_7T2_124) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_125) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 125Rnd";
+class BELT_CLASS(762x54_7T2_125) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_125,name);
 	
 	greenmag_bullets = 125;
 
@@ -1270,8 +1270,8 @@ class BELT_CLASS(762x54_7T2_125) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_126) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 126Rnd";
+class BELT_CLASS(762x54_7T2_126) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_126,name);
 	
 	greenmag_bullets = 126;
 
@@ -1280,8 +1280,8 @@ class BELT_CLASS(762x54_7T2_126) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_127) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 127Rnd";
+class BELT_CLASS(762x54_7T2_127) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_127,name);
 	
 	greenmag_bullets = 127;
 
@@ -1290,8 +1290,8 @@ class BELT_CLASS(762x54_7T2_127) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_128) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 128Rnd";
+class BELT_CLASS(762x54_7T2_128) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_128,name);
 	
 	greenmag_bullets = 128;
 
@@ -1300,8 +1300,8 @@ class BELT_CLASS(762x54_7T2_128) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_129) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 129Rnd";
+class BELT_CLASS(762x54_7T2_129) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_129,name);
 	
 	greenmag_bullets = 129;
 
@@ -1310,8 +1310,8 @@ class BELT_CLASS(762x54_7T2_129) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_130) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 130Rnd";
+class BELT_CLASS(762x54_7T2_130) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_130,name);
 	
 	greenmag_bullets = 130;
 
@@ -1320,8 +1320,8 @@ class BELT_CLASS(762x54_7T2_130) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_131) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 131Rnd";
+class BELT_CLASS(762x54_7T2_131) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_131,name);
 	
 	greenmag_bullets = 131;
 
@@ -1330,8 +1330,8 @@ class BELT_CLASS(762x54_7T2_131) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_132) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 132Rnd";
+class BELT_CLASS(762x54_7T2_132) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_132,name);
 	
 	greenmag_bullets = 132;
 
@@ -1340,8 +1340,8 @@ class BELT_CLASS(762x54_7T2_132) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_133) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 133Rnd";
+class BELT_CLASS(762x54_7T2_133) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_133,name);
 	
 	greenmag_bullets = 133;
 
@@ -1350,8 +1350,8 @@ class BELT_CLASS(762x54_7T2_133) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_134) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 134Rnd";
+class BELT_CLASS(762x54_7T2_134) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_134,name);
 	
 	greenmag_bullets = 134;
 
@@ -1360,8 +1360,8 @@ class BELT_CLASS(762x54_7T2_134) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_135) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 135Rnd";
+class BELT_CLASS(762x54_7T2_135) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_135,name);
 	
 	greenmag_bullets = 135;
 
@@ -1370,8 +1370,8 @@ class BELT_CLASS(762x54_7T2_135) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_136) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 136Rnd";
+class BELT_CLASS(762x54_7T2_136) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_136,name);
 	
 	greenmag_bullets = 136;
 
@@ -1380,8 +1380,8 @@ class BELT_CLASS(762x54_7T2_136) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_137) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 137Rnd";
+class BELT_CLASS(762x54_7T2_137) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_137,name);
 	
 	greenmag_bullets = 137;
 
@@ -1390,8 +1390,8 @@ class BELT_CLASS(762x54_7T2_137) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_138) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 138Rnd";
+class BELT_CLASS(762x54_7T2_138) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_138,name);
 	
 	greenmag_bullets = 138;
 
@@ -1400,8 +1400,8 @@ class BELT_CLASS(762x54_7T2_138) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_139) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 139Rnd";
+class BELT_CLASS(762x54_7T2_139) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_139,name);
 	
 	greenmag_bullets = 139;
 
@@ -1410,8 +1410,8 @@ class BELT_CLASS(762x54_7T2_139) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_140) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 140Rnd";
+class BELT_CLASS(762x54_7T2_140) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_140,name);
 	
 	greenmag_bullets = 140;
 
@@ -1420,8 +1420,8 @@ class BELT_CLASS(762x54_7T2_140) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_141) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 141Rnd";
+class BELT_CLASS(762x54_7T2_141) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_141,name);
 	
 	greenmag_bullets = 141;
 
@@ -1430,8 +1430,8 @@ class BELT_CLASS(762x54_7T2_141) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_142) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 142Rnd";
+class BELT_CLASS(762x54_7T2_142) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_142,name);
 	
 	greenmag_bullets = 142;
 
@@ -1440,8 +1440,8 @@ class BELT_CLASS(762x54_7T2_142) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_143) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 143Rnd";
+class BELT_CLASS(762x54_7T2_143) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_143,name);
 	
 	greenmag_bullets = 143;
 
@@ -1450,8 +1450,8 @@ class BELT_CLASS(762x54_7T2_143) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_144) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 144Rnd";
+class BELT_CLASS(762x54_7T2_144) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_144,name);
 	
 	greenmag_bullets = 144;
 
@@ -1460,8 +1460,8 @@ class BELT_CLASS(762x54_7T2_144) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_145) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 145Rnd";
+class BELT_CLASS(762x54_7T2_145) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_145,name);
 	
 	greenmag_bullets = 145;
 
@@ -1470,8 +1470,8 @@ class BELT_CLASS(762x54_7T2_145) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_146) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 146Rnd";
+class BELT_CLASS(762x54_7T2_146) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_146,name);
 	
 	greenmag_bullets = 146;
 
@@ -1480,8 +1480,8 @@ class BELT_CLASS(762x54_7T2_146) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_147) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 147Rnd";
+class BELT_CLASS(762x54_7T2_147) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_147,name);
 	
 	greenmag_bullets = 147;
 
@@ -1490,8 +1490,8 @@ class BELT_CLASS(762x54_7T2_147) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_148) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 148Rnd";
+class BELT_CLASS(762x54_7T2_148) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_148,name);
 	
 	greenmag_bullets = 148;
 
@@ -1500,8 +1500,8 @@ class BELT_CLASS(762x54_7T2_148) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_149) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 149Rnd";
+class BELT_CLASS(762x54_7T2_149) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_149,name);
 	
 	greenmag_bullets = 149;
 
@@ -1510,8 +1510,8 @@ class BELT_CLASS(762x54_7T2_149) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_150) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 150Rnd";
+class BELT_CLASS(762x54_7T2_150) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_150,name);
 	
 	greenmag_bullets = 150;
 
@@ -1524,8 +1524,8 @@ class BELT_CLASS(762x54_7T2_150) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_151) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 151Rnd";
+class BELT_CLASS(762x54_7T2_151) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_151,name);
 	
 	greenmag_bullets = 151;
 
@@ -1534,8 +1534,8 @@ class BELT_CLASS(762x54_7T2_151) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_152) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 152Rnd";
+class BELT_CLASS(762x54_7T2_152) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_152,name);
 	
 	greenmag_bullets = 152;
 
@@ -1544,8 +1544,8 @@ class BELT_CLASS(762x54_7T2_152) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_153) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 153Rnd";
+class BELT_CLASS(762x54_7T2_153) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_153,name);
 	
 	greenmag_bullets = 153;
 
@@ -1554,8 +1554,8 @@ class BELT_CLASS(762x54_7T2_153) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_154) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 154Rnd";
+class BELT_CLASS(762x54_7T2_154) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_154,name);
 	
 	greenmag_bullets = 154;
 
@@ -1564,8 +1564,8 @@ class BELT_CLASS(762x54_7T2_154) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_155) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 155Rnd";
+class BELT_CLASS(762x54_7T2_155) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_155,name);
 	
 	greenmag_bullets = 155;
 
@@ -1574,8 +1574,8 @@ class BELT_CLASS(762x54_7T2_155) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_156) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 156Rnd";
+class BELT_CLASS(762x54_7T2_156) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_156,name);
 	
 	greenmag_bullets = 156;
 
@@ -1584,8 +1584,8 @@ class BELT_CLASS(762x54_7T2_156) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_157) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 157Rnd";
+class BELT_CLASS(762x54_7T2_157) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_157,name);
 	
 	greenmag_bullets = 157;
 
@@ -1594,8 +1594,8 @@ class BELT_CLASS(762x54_7T2_157) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_158) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 158Rnd";
+class BELT_CLASS(762x54_7T2_158) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_158,name);
 	
 	greenmag_bullets = 158;
 
@@ -1604,8 +1604,8 @@ class BELT_CLASS(762x54_7T2_158) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_159) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 159Rnd";
+class BELT_CLASS(762x54_7T2_159) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_159,name);
 	
 	greenmag_bullets = 159;
 
@@ -1614,8 +1614,8 @@ class BELT_CLASS(762x54_7T2_159) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_160) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 160Rnd";
+class BELT_CLASS(762x54_7T2_160) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_160,name);
 	
 	greenmag_bullets = 160;
 
@@ -1624,8 +1624,8 @@ class BELT_CLASS(762x54_7T2_160) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_161) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 161Rnd";
+class BELT_CLASS(762x54_7T2_161) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_161,name);
 	
 	greenmag_bullets = 161;
 
@@ -1634,8 +1634,8 @@ class BELT_CLASS(762x54_7T2_161) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_162) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 162Rnd";
+class BELT_CLASS(762x54_7T2_162) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_162,name);
 	
 	greenmag_bullets = 162;
 
@@ -1644,8 +1644,8 @@ class BELT_CLASS(762x54_7T2_162) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_163) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 163Rnd";
+class BELT_CLASS(762x54_7T2_163) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_163,name);
 	
 	greenmag_bullets = 163;
 
@@ -1654,8 +1654,8 @@ class BELT_CLASS(762x54_7T2_163) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_164) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 164Rnd";
+class BELT_CLASS(762x54_7T2_164) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_164,name);
 	
 	greenmag_bullets = 164;
 
@@ -1664,8 +1664,8 @@ class BELT_CLASS(762x54_7T2_164) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_165) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 165Rnd";
+class BELT_CLASS(762x54_7T2_165) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_165,name);
 	
 	greenmag_bullets = 165;
 
@@ -1674,8 +1674,8 @@ class BELT_CLASS(762x54_7T2_165) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_166) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 166Rnd";
+class BELT_CLASS(762x54_7T2_166) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_166,name);
 	
 	greenmag_bullets = 166;
 
@@ -1684,8 +1684,8 @@ class BELT_CLASS(762x54_7T2_166) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_167) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 167Rnd";
+class BELT_CLASS(762x54_7T2_167) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_167,name);
 	
 	greenmag_bullets = 167;
 
@@ -1694,8 +1694,8 @@ class BELT_CLASS(762x54_7T2_167) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_168) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 168Rnd";
+class BELT_CLASS(762x54_7T2_168) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_168,name);
 	
 	greenmag_bullets = 168;
 
@@ -1704,8 +1704,8 @@ class BELT_CLASS(762x54_7T2_168) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_169) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 169Rnd";
+class BELT_CLASS(762x54_7T2_169) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_169,name);
 	
 	greenmag_bullets = 169;
 
@@ -1714,8 +1714,8 @@ class BELT_CLASS(762x54_7T2_169) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_170) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 170Rnd";
+class BELT_CLASS(762x54_7T2_170) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_170,name);
 	
 	greenmag_bullets = 170;
 
@@ -1724,8 +1724,8 @@ class BELT_CLASS(762x54_7T2_170) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_171) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 171Rnd";
+class BELT_CLASS(762x54_7T2_171) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_171,name);
 	
 	greenmag_bullets = 171;
 
@@ -1734,8 +1734,8 @@ class BELT_CLASS(762x54_7T2_171) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_172) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 172Rnd";
+class BELT_CLASS(762x54_7T2_172) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_172,name);
 	
 	greenmag_bullets = 172;
 
@@ -1744,8 +1744,8 @@ class BELT_CLASS(762x54_7T2_172) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_173) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 173Rnd";
+class BELT_CLASS(762x54_7T2_173) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_173,name);
 	
 	greenmag_bullets = 173;
 
@@ -1754,8 +1754,8 @@ class BELT_CLASS(762x54_7T2_173) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_174) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 174Rnd";
+class BELT_CLASS(762x54_7T2_174) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_174,name);
 	
 	greenmag_bullets = 174;
 
@@ -1764,8 +1764,8 @@ class BELT_CLASS(762x54_7T2_174) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_175) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 175Rnd";
+class BELT_CLASS(762x54_7T2_175) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_175,name);
 	
 	greenmag_bullets = 175;
 
@@ -1774,8 +1774,8 @@ class BELT_CLASS(762x54_7T2_175) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_176) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 176Rnd";
+class BELT_CLASS(762x54_7T2_176) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_176,name);
 	
 	greenmag_bullets = 176;
 
@@ -1784,8 +1784,8 @@ class BELT_CLASS(762x54_7T2_176) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_177) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 177Rnd";
+class BELT_CLASS(762x54_7T2_177) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_177,name);
 	
 	greenmag_bullets = 177;
 
@@ -1794,8 +1794,8 @@ class BELT_CLASS(762x54_7T2_177) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_178) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 178Rnd";
+class BELT_CLASS(762x54_7T2_178) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_178,name);
 	
 	greenmag_bullets = 178;
 
@@ -1804,8 +1804,8 @@ class BELT_CLASS(762x54_7T2_178) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_179) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 179Rnd";
+class BELT_CLASS(762x54_7T2_179) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_179,name);
 	
 	greenmag_bullets = 179;
 
@@ -1814,8 +1814,8 @@ class BELT_CLASS(762x54_7T2_179) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_180) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 180Rnd";
+class BELT_CLASS(762x54_7T2_180) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_180,name);
 	
 	greenmag_bullets = 180;
 
@@ -1824,8 +1824,8 @@ class BELT_CLASS(762x54_7T2_180) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_181) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 181Rnd";
+class BELT_CLASS(762x54_7T2_181) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_181,name);
 	
 	greenmag_bullets = 181;
 
@@ -1834,8 +1834,8 @@ class BELT_CLASS(762x54_7T2_181) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_182) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 182Rnd";
+class BELT_CLASS(762x54_7T2_182) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_182,name);
 	
 	greenmag_bullets = 182;
 
@@ -1844,8 +1844,8 @@ class BELT_CLASS(762x54_7T2_182) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_183) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 183Rnd";
+class BELT_CLASS(762x54_7T2_183) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_183,name);
 	
 	greenmag_bullets = 183;
 
@@ -1854,8 +1854,8 @@ class BELT_CLASS(762x54_7T2_183) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_184) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 184Rnd";
+class BELT_CLASS(762x54_7T2_184) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_184,name);
 	
 	greenmag_bullets = 184;
 
@@ -1864,8 +1864,8 @@ class BELT_CLASS(762x54_7T2_184) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_185) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 185Rnd";
+class BELT_CLASS(762x54_7T2_185) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_185,name);
 	
 	greenmag_bullets = 185;
 
@@ -1874,8 +1874,8 @@ class BELT_CLASS(762x54_7T2_185) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_186) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 186Rnd";
+class BELT_CLASS(762x54_7T2_186) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_186,name);
 	
 	greenmag_bullets = 186;
 
@@ -1884,8 +1884,8 @@ class BELT_CLASS(762x54_7T2_186) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_187) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 187Rnd";
+class BELT_CLASS(762x54_7T2_187) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_187,name);
 	
 	greenmag_bullets = 187;
 
@@ -1894,8 +1894,8 @@ class BELT_CLASS(762x54_7T2_187) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_188) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 188Rnd";
+class BELT_CLASS(762x54_7T2_188) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_188,name);
 	
 	greenmag_bullets = 188;
 
@@ -1904,8 +1904,8 @@ class BELT_CLASS(762x54_7T2_188) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_189) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 189Rnd";
+class BELT_CLASS(762x54_7T2_189) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_189,name);
 	
 	greenmag_bullets = 189;
 
@@ -1914,8 +1914,8 @@ class BELT_CLASS(762x54_7T2_189) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_190) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 190Rnd";
+class BELT_CLASS(762x54_7T2_190) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_190,name);
 	
 	greenmag_bullets = 190;
 
@@ -1924,8 +1924,8 @@ class BELT_CLASS(762x54_7T2_190) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_191) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 191Rnd";
+class BELT_CLASS(762x54_7T2_191) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_191,name);
 	
 	greenmag_bullets = 191;
 
@@ -1934,8 +1934,8 @@ class BELT_CLASS(762x54_7T2_191) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_192) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 192Rnd";
+class BELT_CLASS(762x54_7T2_192) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_192,name);
 	
 	greenmag_bullets = 192;
 
@@ -1944,8 +1944,8 @@ class BELT_CLASS(762x54_7T2_192) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_193) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 193Rnd";
+class BELT_CLASS(762x54_7T2_193) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_193,name);
 	
 	greenmag_bullets = 193;
 
@@ -1954,8 +1954,8 @@ class BELT_CLASS(762x54_7T2_193) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_194) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 194Rnd";
+class BELT_CLASS(762x54_7T2_194) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_194,name);
 	
 	greenmag_bullets = 194;
 
@@ -1964,8 +1964,8 @@ class BELT_CLASS(762x54_7T2_194) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_195) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 195Rnd";
+class BELT_CLASS(762x54_7T2_195) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_195,name);
 	
 	greenmag_bullets = 195;
 
@@ -1974,8 +1974,8 @@ class BELT_CLASS(762x54_7T2_195) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_196) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 196Rnd";
+class BELT_CLASS(762x54_7T2_196) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_196,name);
 	
 	greenmag_bullets = 196;
 
@@ -1984,8 +1984,8 @@ class BELT_CLASS(762x54_7T2_196) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_197) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 197Rnd";
+class BELT_CLASS(762x54_7T2_197) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_197,name);
 	
 	greenmag_bullets = 197;
 
@@ -1994,8 +1994,8 @@ class BELT_CLASS(762x54_7T2_197) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_198) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 198Rnd";
+class BELT_CLASS(762x54_7T2_198) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_198,name);
 	
 	greenmag_bullets = 198;
 
@@ -2004,8 +2004,8 @@ class BELT_CLASS(762x54_7T2_198) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_199) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 199Rnd";
+class BELT_CLASS(762x54_7T2_199) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_199,name);
 	
 	greenmag_bullets = 199;
 
@@ -2014,8 +2014,8 @@ class BELT_CLASS(762x54_7T2_199) : BELT_CLASS(762x54_7T2_Core) {
 	};
 };
 
-class BELT_CLASS(762x54_7T2_200) : BELT_CLASS(762x54_7T2_Core) {
-	displayName = "Belt 7.62x54 [7T2] - 200Rnd";
+class BELT_CLASS(762x54_7T2_200) : CVO_AFRF_greenmag_CoreBelt_762x54_7T2 {
+	displayName = CESTRING(beltlinked,762x54_7T2_200,name);
 	
 	greenmag_bullets = 200;
 
