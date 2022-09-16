@@ -105,7 +105,17 @@ class CfgPatches {
 			QAMMO_CLASS(9x21_7N29_60Rnd),
 			QAMMO_CLASS(9x21_7BT3_1Rnd),
 			QAMMO_CLASS(9x21_7BT3_30Rnd),
-			QAMMO_CLASS(9x21_7BT3_60Rnd)
+			QAMMO_CLASS(9x21_7BT3_60Rnd),
+			// 9x39 Ammo
+			QAMMO_CLASS(9x39_basic_1Rnd),
+			QAMMO_CLASS(9x39_basic_30Rnd),
+			QAMMO_CLASS(9x39_basic_60Rnd),
+			QAMMO_CLASS(9x39_SP5_1Rnd),
+			QAMMO_CLASS(9x39_SP5_30Rnd),
+			QAMMO_CLASS(9x39_SP5_60Rnd),
+			QAMMO_CLASS(9x39_SP6_1Rnd),
+			QAMMO_CLASS(9x39_SP6_30Rnd),
+			QAMMO_CLASS(9x39_SP6_60Rnd)
 		};
 	};
 };
@@ -120,6 +130,8 @@ class CfgMagazines {
 	#include "magazines\rhs_afrf_9x19.hpp"
 	#include "magazines\rhs_afrf_9x18.hpp"
 	#include "magazines\rhs_afrf_9x21.hpp"
+	#include "magazines\rhs_afrf_9x39.hpp"
+	#include "magazines\rhs_afrf_338.hpp"
 
 };
 
@@ -202,6 +214,10 @@ class CfgWeapons {
 	#include "ammo\9x21_7N28.hpp"
 	#include "ammo\9x21_7N29.hpp"
 	#include "ammo\9x21_7BT3.hpp"
+
+	#include "ammo\9x39_Basic.hpp"
+	#include "ammo\9x39_SP5.hpp"
+	#include "ammo\9x39_SP6.hpp"
 
 	// Belts
 	#include "belts\762x54_57N323S.hpp"
