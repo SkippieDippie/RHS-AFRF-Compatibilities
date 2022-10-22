@@ -5,7 +5,7 @@ class CfgPatches {
 		url = "https://github.com/SkippieDippie/RHS-AFRF-Compatibilities";
 
 		requiredAddons[] = {};
-		requiredVersion = 1.00;
+		requiredVersion = 2.02;
 
 		units[] = {};
 		weapons[] = {};
