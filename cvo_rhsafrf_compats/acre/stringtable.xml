@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Everything Compats - RHS AFRF">
+  <Package name="ACRE">
+    <Container name="Racks">
+      <Key ID="STR_CVO_ACRE_racks_R123M_name">
+        <Original>Rack R-123M</Original>
+        <English>Rack R-123M</English>
+        <Russian>Подставка Р-123М</Russian>
+      </Key>
+      <Key ID="STR_CVO_ACRE_racks_R123M_nameShort">
+        <Original>R-123M</Original>
+        <English>R-123M</English>
+        <Russian>Р-123М</Russian>
+      </Key>
+      <Key ID="STR_CVO_ACRE_racks_R130_name">
+        <Original>Rack R-130</Original>
+        <English>Rack R-130</English>
+        <Russian>Подставка Р-130</Russian>
+      </Key>
+      <Key ID="STR_CVO_ACRE_racks_R130_nameShort">
+        <Original>R-130</Original>
+        <English>R-130</English>
+        <Russian>Р-130</Russian>
+      </Key>
+    </Container>
+  </Package>
+</Project>
