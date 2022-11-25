@@ -7,6 +7,7 @@ class CfgPatches {
 
 		requiredAddons[] = {
 			"rhs_c_a2port_armor",
+			"rhs_c_btr",
 			"acre_sys_rack",
 			"acre_sys_intercom"
 		};
@@ -18,6 +19,6 @@ class CfgPatches {
 };
 
 class CfgVehicles {
-	#include "vehicles\rhs_btr60.hpp"
+	#include "vehicles\rhs_btr.hpp"
 };
 #endif
